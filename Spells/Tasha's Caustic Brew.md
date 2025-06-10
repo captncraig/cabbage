@@ -23,7 +23,7 @@ wizard: true
 >
 > *1st level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a bit of rotten food)
 >
 >A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes **2d4** acid damage at start of each of its turns.

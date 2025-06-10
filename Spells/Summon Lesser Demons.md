@@ -22,7 +22,7 @@ wizard: true
 >
 > *3rd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a vial of blood from a humanoid killed within the past 24 hours)
 >
 >You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.

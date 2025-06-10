@@ -19,7 +19,7 @@ ranger: true
 >
 > *3rd level Transmutaion*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition, or the weapon itself if it's a thrown weapon, transforms into a bolt of lightning. Make the attack roll as normal. The target takes **4d8** lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage.

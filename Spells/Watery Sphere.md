@@ -23,7 +23,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a droplet of water)
 >
 >You conjure up a sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell's duration.

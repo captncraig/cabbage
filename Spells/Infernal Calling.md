@@ -20,7 +20,7 @@ wizard: true
 >
 > *5th level Conjuration*
 > *Casting Time:* 1 minute
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a ruby worth at least 999 gp)
 >
 >Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of **challenge rating 6 or lower**, such as a **barbed devil** or a **bearded devil**. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.

@@ -22,7 +22,7 @@ warlock_genie: true
 >
 > *1st level Divination*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S
 >
 >For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.

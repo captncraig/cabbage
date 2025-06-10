@@ -20,7 +20,7 @@ druid: true
 >
 > *5th level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.

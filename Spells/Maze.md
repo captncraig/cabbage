@@ -19,7 +19,7 @@ wizard: true
 >
 > *8th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S
 >
 >You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.

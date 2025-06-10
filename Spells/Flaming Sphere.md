@@ -27,7 +27,7 @@ wizard: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
 >
 >A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes **2d6** fire damage on a failed save, or half as much damage on a successful one.

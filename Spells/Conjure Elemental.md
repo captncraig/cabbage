@@ -21,7 +21,7 @@ wizard: true
 >
 > *5th level Conjuration*
 > *Casting Time:* 1 minute
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
 >
 >You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An **elemental of challenge rating 5 or lower** appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a **fire elemental** emerges from a bonfire, and an **earth elemental** rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.

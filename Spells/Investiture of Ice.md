@@ -22,7 +22,7 @@ wizard: true
 >
 > *6th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S
 >
 >Until the spell ends, ice rimes your body, and you gain the following benefits:

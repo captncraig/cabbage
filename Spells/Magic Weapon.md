@@ -28,7 +28,7 @@ wizard: true
 >
 > *2nd level Transmutaion*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.

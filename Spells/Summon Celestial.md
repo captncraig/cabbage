@@ -21,7 +21,7 @@ sorcerer_divine_soul: true
 >
 > *5th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a golden reliquary worth at least 500 gp)
 >
 >You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the **Celestial Spirit** stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

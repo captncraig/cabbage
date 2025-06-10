@@ -23,7 +23,7 @@ wizard: true
 >
 > *5th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.

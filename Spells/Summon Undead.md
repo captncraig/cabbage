@@ -22,7 +22,7 @@ wizard: true
 >
 > *3rd level Necromancy*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a gilded skull worth at least 300 gp)
 >
 >You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Undead Spirit** stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

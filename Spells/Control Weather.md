@@ -22,7 +22,7 @@ wizard: true
 >
 > *8th level Transmutaion*
 > *Casting Time:* 10 minute
-> *Duration:* 8 hour
+> *Duration:* 8 hour (concentration)
 > *Components:* V, S, M(burning incense and bits of earth and wood mixed in water)
 >
 >You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.

@@ -27,7 +27,7 @@ wizard: true
 >
 > *3rd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a pinch of dust and a few drops of water)
 >
 >Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is **Vision and Light**, and exposed flames in the area are doused.

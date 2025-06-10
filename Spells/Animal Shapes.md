@@ -19,7 +19,7 @@ druid: true
 >
 > *8th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 24 hour
+> *Duration:* 24 hour (concentration)
 > *Components:* V, S
 >
 >Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a **Large or smaller beast with a challenge rating of 4 or lower**. On subsequent turns, you can use your action to transform affected creatures into new forms.

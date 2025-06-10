@@ -23,7 +23,7 @@ wizard: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a pinch of dust)
 >
 >Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell's duration.

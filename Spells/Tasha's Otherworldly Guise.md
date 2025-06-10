@@ -21,7 +21,7 @@ wizard: true
 >
 > *6th level Transmutaion*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(an object engraved with a symbol of the Outer Planes, worth at least 500 gp)
 >
 >Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:

@@ -24,7 +24,7 @@ wizard: true
 >
 > *2nd level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V
 >
 >A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.

@@ -23,7 +23,7 @@ sorcerer_divine_soul: true
 >
 > *1st level Divination*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(a yew leaf)
 >
 >For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.

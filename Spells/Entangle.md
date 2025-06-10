@@ -20,7 +20,7 @@ ranger: true
 >
 > *1st level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into **difficult terrain**.

@@ -24,7 +24,7 @@ warlock_hexblade: true
 >
 > *3rd level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra **1d4** damage of the chosen type when it hits.

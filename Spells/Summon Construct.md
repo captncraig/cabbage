@@ -23,7 +23,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(an ornate stone and metal lockbox worth at least 400 gp)
 >
 >You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

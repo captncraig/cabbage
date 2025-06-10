@@ -29,7 +29,7 @@ wizard: true
 >
 > *4th level Illusion*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >You or a creature you touch becomes **invisible** until the spell ends. Anything the target is wearing or carrying is **invisible** as long as it is on the target's person.

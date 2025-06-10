@@ -22,7 +22,7 @@ wizard: true
 >
 > *5th level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(an eggshell and a snakeskin glove)
 >
 >You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.

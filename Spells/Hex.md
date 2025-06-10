@@ -19,7 +19,7 @@ warlock: true
 >
 > *1st level Enchantment*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(the petrified eye of a newt)
 >
 >You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra **1d6** necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.

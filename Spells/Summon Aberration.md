@@ -23,7 +23,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp)
 >
 >You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

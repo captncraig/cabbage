@@ -21,7 +21,7 @@ wizard: true
 >
 > *8th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is **Vision and Light**. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.

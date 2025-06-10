@@ -19,7 +19,7 @@ wizard: true
 >
 > *6th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(a few hairs from a bull)
 >
 >You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:

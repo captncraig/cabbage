@@ -23,7 +23,7 @@ warlock_genie: true
 >
 > *2nd level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(seven sharp thorns or seven small twigs, each sharpened to a point)
 >
 >The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes **difficult terrain** for the duration. When a creature moves into or within the area, it takes **2d4** piercing damage for every 5 feet it travels.

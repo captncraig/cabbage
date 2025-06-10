@@ -26,7 +26,7 @@ sorcerer_divine_soul: true
 >
 > *5th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(a few grains of sugar, some kernels of grain, and a smear of fat)
 >
 >Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is **Vision and Light**. The sphere's area is **difficult terrain**.

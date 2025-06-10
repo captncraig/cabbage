@@ -19,7 +19,7 @@ druid: true
 >
 > *6th level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.

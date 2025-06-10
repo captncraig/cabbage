@@ -20,7 +20,7 @@ wizard: true
 >
 > *6th level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V
 >
 >Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be **charmed** are immune to this spell.

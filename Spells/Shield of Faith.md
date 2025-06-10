@@ -22,7 +22,7 @@ sorcerer_divine_soul: true
 >
 > *1st level Abjuration*
 > *Casting Time:* 1 bonus
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(a small parchment with a bit of holy text written on it)
 >
 >A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.

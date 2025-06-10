@@ -30,7 +30,7 @@ wizard: true
 >
 > *4th level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(diamond dust worth 100 gp, which the spell consumes)
 >
 >This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.

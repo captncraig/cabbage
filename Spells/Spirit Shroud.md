@@ -25,7 +25,7 @@ wizard: true
 >
 > *3rd level Necromancy*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable.

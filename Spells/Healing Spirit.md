@@ -20,7 +20,7 @@ ranger: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).

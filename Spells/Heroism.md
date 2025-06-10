@@ -24,7 +24,7 @@ paladin_glory: true
 >
 > *1st level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being **frightened** and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.

@@ -26,7 +26,7 @@ wizard: true
 >
 > *2nd level Illusion*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(an eyelash encased in gum arabic)
 >
 >A creature you touch becomes **invisible** until the spell ends. Anything the target is wearing or carrying is **invisible** as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.

@@ -19,7 +19,7 @@ druid: true
 >
 > *4th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S
 >
 >You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a **giant centipede**, a spider becomes a **giant spider**, a wasp becomes a **giant wasp**, and a scorpion becomes a **giant scorpion**.

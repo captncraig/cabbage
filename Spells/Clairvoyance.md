@@ -27,7 +27,7 @@ wizard: true
 >
 > *3rd level Divination*
 > *Casting Time:* 10 minute
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 >
 >You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.

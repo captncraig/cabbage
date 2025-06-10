@@ -21,7 +21,7 @@ sorcerer_divine_soul: true
 >
 > *5th level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(holy water or powdered silver and iron)
 >
 >Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.

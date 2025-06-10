@@ -20,7 +20,7 @@ ranger: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)
 >
 >You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Bestial Spirit** stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

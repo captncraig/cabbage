@@ -23,7 +23,7 @@ sorcerer_divine_soul: true
 >
 > *1st level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a drop of blood)
 >
 >Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a **d4** and subtract the number rolled from the attack roll or saving throw.

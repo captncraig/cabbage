@@ -19,7 +19,7 @@ druid: true
 >
 > *8th level Conjuration*
 > *Casting Time:* 1 minute
-> *Duration:* 6 round
+> *Duration:* 6 round (concentration)
 > *Components:* V, S
 >
 >A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.

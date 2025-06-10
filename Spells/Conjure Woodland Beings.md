@@ -20,7 +20,7 @@ ranger: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(one holly berry per creature summoned)
 >
 >You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:

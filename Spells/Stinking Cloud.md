@@ -25,7 +25,7 @@ wizard: true
 >
 > *3rd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a rotten egg or several skunk cabbage leaves)
 >
 >You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is **Vision and Light**. The cloud lingers in the air for the duration.

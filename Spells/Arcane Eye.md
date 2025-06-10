@@ -24,7 +24,7 @@ wizard: true
 >
 > *4th level Divination*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a bit of bat fur)
 >
 >You create an invisible, magical eye within range that hovers in the air for the duration.

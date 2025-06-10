@@ -24,7 +24,7 @@ wizard: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a sliver of glass)
 >
 >You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes **4d4** slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.

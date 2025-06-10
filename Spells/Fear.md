@@ -26,7 +26,7 @@ wizard: true
 >
 > *3rd level Illusion*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a white feather or the heart of a hen)
 >
 >You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become **frightened** for the duration.

@@ -30,7 +30,7 @@ wizard: true
 >
 > *4th level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(an item distasteful to the target)
 >
 >You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.

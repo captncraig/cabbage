@@ -30,7 +30,7 @@ wizard: true
 >
 > *1st level Abjuration*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S, M(holy water or powdered silver and iron, which the spell consumes)
 >
 >Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.

@@ -20,7 +20,7 @@ wizard: true
 >
 > *7th level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 >
 >You create a sword-shaped plane of force that hovers within range. It lasts for the duration.

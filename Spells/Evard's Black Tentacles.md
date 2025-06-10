@@ -24,7 +24,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a piece of tentacle from a giant octopus or a giant squid)
 >
 >Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into **difficult terrain**.

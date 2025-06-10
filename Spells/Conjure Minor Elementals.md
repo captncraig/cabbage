@@ -22,7 +22,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 minute
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:

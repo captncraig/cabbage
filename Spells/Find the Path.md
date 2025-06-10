@@ -22,7 +22,7 @@ sorcerer_divine_soul: true
 >
 > *6th level Divination*
 > *Casting Time:* 1 minute
-> *Duration:* 1 day
+> *Duration:* 1 day (concentration)
 > *Components:* V, S, M(a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find)
 >
 >This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as "a green dragon's lair"), the spell fails.

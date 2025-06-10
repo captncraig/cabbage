@@ -22,7 +22,7 @@ wizard: true
 >
 > *6th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a pinch of lime, water, and earth)
 >
 >You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is **restrained** as its flesh begins to harden. On a successful save, the creature isn't affected.

@@ -22,7 +22,7 @@ wizard: true
 >
 > *4th level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >A 20-foot-radius sphere of whirling air springs into existence, centered on a point you choose within range. The sphere remains for the spell's duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw or take **2d6** bludgeoning damage. The sphere's space is **difficult terrain**.

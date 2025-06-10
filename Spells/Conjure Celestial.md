@@ -20,7 +20,7 @@ sorcerer_divine_soul: true
 >
 > *7th level Conjuration*
 > *Casting Time:* 1 minute
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >You summon a **celestial of challenge rating 4 or lower**, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.

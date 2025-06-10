@@ -24,7 +24,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)
 >
 >You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

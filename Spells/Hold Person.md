@@ -32,7 +32,7 @@ wizard: true
 >
 > *2nd level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a small, straight piece of iron)
 >
 >Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be **paralyzed** for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.

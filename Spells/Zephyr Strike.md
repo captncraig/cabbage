@@ -19,7 +19,7 @@ ranger: true
 >
 > *1st level Transmutaion*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V
 >
 >You move like the wind. Until the spell ends, your movement doesn't provoke opportunity attacks.

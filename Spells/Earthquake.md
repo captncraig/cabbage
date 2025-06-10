@@ -22,7 +22,7 @@ sorcerer_divine_soul: true
 >
 > *8th level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a pinch of dirt, a piece of rock, and a lump of clay)
 >
 >You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.

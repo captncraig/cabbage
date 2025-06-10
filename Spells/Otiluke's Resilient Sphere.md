@@ -24,7 +24,7 @@ wizard: true
 >
 > *4th level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 >
 >A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.

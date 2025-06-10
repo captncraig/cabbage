@@ -22,7 +22,7 @@ wizard: true
 >
 > *8th level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S
 >
 >You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be **charmed** by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.

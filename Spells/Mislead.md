@@ -23,7 +23,7 @@ wizard: true
 >
 > *5th level Illusion*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* S
 >
 >You become **invisible** at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.

@@ -22,7 +22,7 @@ wizard: true
 >
 > *4th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a vial of blood from a humanoid killed within the past 24 hours)
 >
 >You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be **one of challenge rating 5 or lower**, such as a **shadow demon** or a **barlgura**. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.

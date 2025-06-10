@@ -22,7 +22,7 @@ wizard: true
 >
 > *6th level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, S
 >
 >Until the spell ends, wind whirls around you, and you gain the following benefits:

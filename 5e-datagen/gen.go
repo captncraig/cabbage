@@ -143,6 +143,9 @@ func (s SpellDuration) DurationString() string {
 	default:
 		log.Fatalf("unknown duration type: %s", s.Type)
 	}
+	if s.Concentration {
+		base = fmt.Sprintf("%s (concentration)", base)
+	}
 	return base
 }
 

@@ -24,7 +24,7 @@ wizard: true
 >
 > *2nd level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become **charmed** by you for the duration. While the target is **charmed** in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.

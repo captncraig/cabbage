@@ -27,7 +27,7 @@ wizard: true
 >
 > *3rd level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a bit of gauze and a wisp of smoke)
 >
 >You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.

@@ -23,7 +23,7 @@ wizard: true
 >
 > *1st level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(tiny tarts and a feather that is waved in the air)
 >
 >A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall **prone**, becoming **incapacitated** and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.

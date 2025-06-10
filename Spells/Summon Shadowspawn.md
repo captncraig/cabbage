@@ -22,7 +22,7 @@ wizard: true
 >
 > *3rd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(tears inside a gem worth at least 300 gp)
 >
 >You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Shadow Spirit** stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

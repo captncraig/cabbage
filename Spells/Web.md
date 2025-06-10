@@ -25,7 +25,7 @@ wizard: true
 >
 > *2nd level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(a bit of spiderweb)
 >
 >You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are **difficult terrain** and lightly obscure their area.

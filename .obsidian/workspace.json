@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spell Book.md",
+                "file": "Spells/Zephyr Strike.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spell Book"
+              "title": "Zephyr Strike"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell Book.md",
+                "file": "Spells/Zephyr Strike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spell Book"
+              "title": "Backlinks for Zephyr Strike"
             }
           },
           {
@@ -181,9 +181,9 @@
   },
   "active": "699dc52ca678e035",
   "lastOpenFiles": [
+    "Spell Book.md",
     "cabbage_scratch.md",
     "C4BB493.md",
-    "Spell Book.md",
     "Spells/Chill Touch.md",
     "Spells/Color Spray.md",
     "Spells/Command.md",

@@ -20,7 +20,7 @@ wizard: true
 >
 > *6th level Conjuration*
 > *Casting Time:* 1 action
-> *Duration:* 1 hour
+> *Duration:* 1 hour (concentration)
 > *Components:* V, S, M(humanoid blood inside a ruby vial worth at least 600 gp)
 >
 >You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Fiendish Spirit** stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.

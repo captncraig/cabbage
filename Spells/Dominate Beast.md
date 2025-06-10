@@ -25,7 +25,7 @@ warlock_great_old_one: true
 >
 > *4th level Enchantment*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S
 >
 >You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom saving throw or be **charmed** by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.

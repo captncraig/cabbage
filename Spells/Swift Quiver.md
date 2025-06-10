@@ -19,7 +19,7 @@ ranger: true
 >
 > *5th level Transmutaion*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a quiver containing at least one piece of ammunition)
 >
 >You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.

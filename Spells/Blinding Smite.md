@@ -19,7 +19,7 @@ paladin: true
 >
 > *3rd level Evocation*
 > *Casting Time:* 1 bonus
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V
 >
 >The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra **3d8** radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be **blinded** until the spell ends.

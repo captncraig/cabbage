@@ -22,7 +22,7 @@ wizard: true
 >
 > *2nd level Transmutaion*
 > *Casting Time:* 1 action
-> *Duration:* 1 minute
+> *Duration:* 1 minute (concentration)
 > *Components:* V, S, M(a miniature hand sculpted from clay)
 >
 >You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes **2d6** bludgeoning damage and is **restrained** for the spell's duration.

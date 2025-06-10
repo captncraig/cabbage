@@ -26,7 +26,7 @@ wizard: true
 >
 > *2nd level Evocation*
 > *Casting Time:* 1 action
-> *Duration:* 10 minute
+> *Duration:* 10 minute (concentration)
 > *Components:* V, M(bat fur and a drop of pitch or piece of coal)
 >
 >Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with **darkvision** can't see through this darkness, and nonmagical light can't illuminate it.
