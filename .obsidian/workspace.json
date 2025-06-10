@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9e44bbf8cdca392a",
+    "type": "split",
+    "children": [
+      {
+        "id": "842accce02318a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699dc52ca678e035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spell Book.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spell Book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ccc89d7952fb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b113372d7781575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28606810153dc0be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "170abb91bc01b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e5c14c3e6811877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce1e2eb5953413b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "14974f80f8b9607f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be718c21e3bc7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spell Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Spell Book"
+            }
+          },
+          {
+            "id": "9fe6d2c1c4f12063",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spells/Acid Splash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Acid Splash"
+            }
+          },
+          {
+            "id": "9c5c5407f6a49f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "041e45f11f0f3544",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spells/Acid Splash.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Acid Splash"
+            }
+          },
+          {
+            "id": "6a1cb58f5f181e08",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "699dc52ca678e035",
+  "lastOpenFiles": [
+    "cabbage_scratch.md",
+    "C4BB493.md",
+    "Spell Book.md",
+    "Spells/Chill Touch.md",
+    "Spells/Color Spray.md",
+    "Spells/Command.md",
+    "Spells/Commune with Nature.md",
+    "Spells/Comprehend Languages.md",
+    "Spells/Compulsion.md",
+    "Spells/Cone of Cold.md",
+    "Spells/Confusion.md",
+    "Spells/Conjure Animals.md",
+    "Spells/Conjure Barrage.md",
+    "Spells/Conjure Celestial.md",
+    "Spells/Continual Flame.md",
+    "Spells/Catnap.md",
+    "Spells/Charm Monster.md",
+    "Spells/Charm Person.md",
+    "Spells/Chromatic Orb.md",
+    "Spells/Circle of Death.md",
+    "Spells/Circle of Power.md",
+    "Spells/Dream of the Blue Veil.md",
+    "Spells/Dream.md",
+    "Spells/Drawmij's Instant Summons.md",
+    "Spells/Dragon's Breath.md",
+    "Spells/Dominate Person.md",
+    "Spells",
+    "5e-datagen/Spells",
+    "5e-datagen/sources.go",
+    "5e-datagen/data/spells/sources.json",
+    "5e-datagen/entries.go",
+    "5e-datagen/data/spells/spells-xphb.json",
+    "5e-datagen/data/spells/index.json",
+    "5e-datagen/data/spells",
+    "5e-datagen/data",
+    "5e-datagen/go.mod"
+  ]
+}
