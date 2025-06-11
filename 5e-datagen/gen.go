@@ -37,6 +37,7 @@ func main() {
 		if !includeSources[strings.ToLower(name)] {
 			continue
 		}
+		os.MkdirAll(fmt.Sprintf("../Spells/%s", name), 0755)
 		spells := SpellList{}
 		file, err := os.ReadFile(filepath.Join(dir5e, "spells", url))
 		if err != nil {
@@ -48,7 +49,7 @@ func main() {
 		}
 		for _, spell := range spells.Spells {
 			fmt.Println(spell.Name)
-			err := os.WriteFile(fmt.Sprintf("../Spells/%s.md", spell.filename()), []byte(spell.Markdown()), 0644)
+			err := os.WriteFile(fmt.Sprintf("../Spells/%s/%s.md", name, spell.filename()), []byte(spell.Markdown()), 0644)
 			if err != nil {
 				log.Fatal(err)
 			}
