@@ -3,13 +3,12 @@ title: Cure Wounds
 source: PHB
 level: 1
 school: V
-prepared: false
 id: cure_wounds
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_cure_wounds
+  - cure_wounds
 tags:
   - spell
 artificer: true

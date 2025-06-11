@@ -3,13 +3,12 @@ title: Nystul's Magic Aura
 source: PHB
 level: 2
 school: I
-prepared: false
 id: nystul_s_magic_aura
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_nystul's_magic_aura
+  - nystul_s_magic_aura
 tags:
   - spell
 fighter_eldritch_knight: true

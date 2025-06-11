@@ -3,13 +3,12 @@ title: Tasha's Caustic Brew
 source: TCE
 level: 1
 school: V
-prepared: false
 id: tasha_s_caustic_brew
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tasha's_caustic_brew
+  - tasha_s_caustic_brew
 tags:
   - spell
 artificer: true

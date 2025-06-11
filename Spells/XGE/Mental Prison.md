@@ -3,13 +3,12 @@ title: Mental Prison
 source: XGE
 level: 6
 school: I
-prepared: false
 id: mental_prison
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_mental_prison
+  - mental_prison
 tags:
   - spell
 sorcerer: true

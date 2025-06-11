@@ -3,13 +3,12 @@ title: Reverse Gravity
 source: PHB
 level: 7
 school: T
-prepared: false
 id: reverse_gravity
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_reverse_gravity
+  - reverse_gravity
 tags:
   - spell
 druid: true

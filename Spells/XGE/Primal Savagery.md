@@ -3,13 +3,12 @@ title: Primal Savagery
 source: XGE
 level: 0
 school: T
-prepared: false
 id: primal_savagery
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_primal_savagery
+  - primal_savagery
 tags:
   - spell
 cleric_nature: true

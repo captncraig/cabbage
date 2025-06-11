@@ -3,13 +3,12 @@ title: Summon Construct
 source: TCE
 level: 4
 school: C
-prepared: false
 id: summon_construct
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_construct
+  - summon_construct
 tags:
   - spell
 artificer: true

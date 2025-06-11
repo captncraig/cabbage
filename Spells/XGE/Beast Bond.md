@@ -3,13 +3,12 @@ title: Beast Bond
 source: XGE
 level: 1
 school: D
-prepared: false
 id: beast_bond
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_beast_bond
+  - beast_bond
 tags:
   - spell
 druid: true

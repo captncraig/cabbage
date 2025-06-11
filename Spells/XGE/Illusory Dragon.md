@@ -3,13 +3,12 @@ title: Illusory Dragon
 source: XGE
 level: 8
 school: I
-prepared: false
 id: illusory_dragon
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_illusory_dragon
+  - illusory_dragon
 tags:
   - spell
 wizard: true

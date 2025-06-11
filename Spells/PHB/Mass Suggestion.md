@@ -3,13 +3,12 @@ title: Mass Suggestion
 source: PHB
 level: 6
 school: E
-prepared: false
 id: mass_suggestion
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_mass_suggestion
+  - mass_suggestion
 tags:
   - spell
 bard: true

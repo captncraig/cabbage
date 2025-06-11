@@ -3,13 +3,12 @@ title: Lightning Lure
 source: TCE
 level: 0
 school: V
-prepared: false
 id: lightning_lure
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_lightning_lure
+  - lightning_lure
 tags:
   - spell
 artificer: true

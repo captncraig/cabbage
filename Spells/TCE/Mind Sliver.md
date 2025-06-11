@@ -3,13 +3,12 @@ title: Mind Sliver
 source: TCE
 level: 0
 school: E
-prepared: false
 id: mind_sliver
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_mind_sliver
+  - mind_sliver
 tags:
   - spell
 fighter_eldritch_knight: true

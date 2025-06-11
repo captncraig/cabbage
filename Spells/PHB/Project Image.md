@@ -3,13 +3,12 @@ title: Project Image
 source: PHB
 level: 7
 school: I
-prepared: false
 id: project_image
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_project_image
+  - project_image
 tags:
   - spell
 bard: true

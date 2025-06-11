@@ -3,13 +3,12 @@ title: Crusader's Mantle
 source: PHB
 level: 3
 school: V
-prepared: false
 id: crusader_s_mantle
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_crusader's_mantle
+  - crusader_s_mantle
 tags:
   - spell
 cleric_war: true

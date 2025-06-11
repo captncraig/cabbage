@@ -3,13 +3,12 @@ title: Catapult
 source: XGE
 level: 1
 school: T
-prepared: false
 id: catapult
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_catapult
+  - catapult
 tags:
   - spell
 artificer: true

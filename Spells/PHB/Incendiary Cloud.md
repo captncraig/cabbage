@@ -3,13 +3,12 @@ title: Incendiary Cloud
 source: PHB
 level: 8
 school: C
-prepared: false
 id: incendiary_cloud
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_incendiary_cloud
+  - incendiary_cloud
 tags:
   - spell
 druid: true

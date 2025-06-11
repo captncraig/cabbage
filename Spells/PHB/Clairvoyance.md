@@ -3,13 +3,12 @@ title: Clairvoyance
 source: PHB
 level: 3
 school: D
-prepared: false
 id: clairvoyance
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_clairvoyance
+  - clairvoyance
 tags:
   - spell
 barbarian_ancestral_guardian: true

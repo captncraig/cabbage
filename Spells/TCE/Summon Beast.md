@@ -3,13 +3,12 @@ title: Summon Beast
 source: TCE
 level: 2
 school: C
-prepared: false
 id: summon_beast
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_beast
+  - summon_beast
 tags:
   - spell
 druid: true

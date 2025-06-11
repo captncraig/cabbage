@@ -3,13 +3,12 @@ title: Hallucinatory Terrain
 source: PHB
 level: 4
 school: I
-prepared: false
 id: hallucinatory_terrain
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hallucinatory_terrain
+  - hallucinatory_terrain
 tags:
   - spell
 bard: true

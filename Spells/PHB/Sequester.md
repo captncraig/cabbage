@@ -3,13 +3,12 @@ title: Sequester
 source: PHB
 level: 7
 school: T
-prepared: false
 id: sequester
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sequester
+  - sequester
 tags:
   - spell
 wizard: true

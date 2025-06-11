@@ -3,13 +3,12 @@ title: Harm
 source: PHB
 level: 6
 school: N
-prepared: false
 id: harm
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_harm
+  - harm
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Shape Water
 source: XGE
 level: 0
 school: T
-prepared: false
 id: shape_water
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_shape_water
+  - shape_water
 tags:
   - spell
 cleric_nature: true

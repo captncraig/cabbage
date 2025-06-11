@@ -3,13 +3,12 @@ title: Animal Messenger
 source: PHB
 level: 2
 school: E
-prepared: false
 id: animal_messenger
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_animal_messenger
+  - animal_messenger
 tags:
   - spell
 bard: true

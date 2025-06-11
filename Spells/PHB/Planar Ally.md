@@ -3,13 +3,12 @@ title: Planar Ally
 source: PHB
 level: 6
 school: C
-prepared: false
 id: planar_ally
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_planar_ally
+  - planar_ally
 tags:
   - spell
 cleric: true

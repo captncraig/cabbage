@@ -3,13 +3,12 @@ title: Forbiddance
 source: PHB
 level: 6
 school: A
-prepared: false
 id: forbiddance
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_forbiddance
+  - forbiddance
 tags:
   - spell
 cleric: true

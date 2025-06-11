@@ -3,13 +3,12 @@ title: Beacon of Hope
 source: PHB
 level: 3
 school: A
-prepared: false
 id: beacon_of_hope
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_beacon_of_hope
+  - beacon_of_hope
 tags:
   - spell
 cleric: true

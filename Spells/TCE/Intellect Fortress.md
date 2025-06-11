@@ -3,13 +3,12 @@ title: Intellect Fortress
 source: TCE
 level: 3
 school: A
-prepared: false
 id: intellect_fortress
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_intellect_fortress
+  - intellect_fortress
 tags:
   - spell
 artificer: true

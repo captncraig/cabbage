@@ -3,13 +3,12 @@ title: Hail of Thorns
 source: PHB
 level: 1
 school: C
-prepared: false
 id: hail_of_thorns
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_hail_of_thorns
+  - hail_of_thorns
 tags:
   - spell
 ranger: true

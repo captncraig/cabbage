@@ -3,13 +3,12 @@ title: Melf's Acid Arrow
 source: PHB
 level: 2
 school: V
-prepared: false
 id: melf_s_acid_arrow
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_melf's_acid_arrow
+  - melf_s_acid_arrow
 tags:
   - spell
 artificer_alchemist: true

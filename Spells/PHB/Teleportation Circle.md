@@ -3,13 +3,12 @@ title: Teleportation Circle
 source: PHB
 level: 5
 school: C
-prepared: false
 id: teleportation_circle
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_teleportation_circle
+  - teleportation_circle
 tags:
   - spell
 bard: true

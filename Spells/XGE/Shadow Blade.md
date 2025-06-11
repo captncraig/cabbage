@@ -3,13 +3,12 @@ title: Shadow Blade
 source: XGE
 level: 2
 school: I
-prepared: false
 id: shadow_blade
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_shadow_blade
+  - shadow_blade
 tags:
   - spell
 fighter_eldritch_knight: true

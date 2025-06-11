@@ -3,13 +3,12 @@ title: Mage Armor
 source: PHB
 level: 1
 school: A
-prepared: false
 id: mage_armor
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mage_armor
+  - mage_armor
 tags:
   - spell
 fighter_eldritch_knight: true

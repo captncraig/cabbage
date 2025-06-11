@@ -3,13 +3,12 @@ title: Chaos Bolt
 source: XGE
 level: 1
 school: V
-prepared: false
 id: chaos_bolt
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_chaos_bolt
+  - chaos_bolt
 tags:
   - spell
 sorcerer: true

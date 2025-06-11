@@ -3,13 +3,12 @@ title: Conjure Woodland Beings
 source: PHB
 level: 4
 school: C
-prepared: false
 id: conjure_woodland_beings
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_conjure_woodland_beings
+  - conjure_woodland_beings
 tags:
   - spell
 druid: true

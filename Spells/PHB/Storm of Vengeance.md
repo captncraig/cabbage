@@ -3,13 +3,12 @@ title: Storm of Vengeance
 source: PHB
 level: 9
 school: C
-prepared: false
 id: storm_of_vengeance
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_storm_of_vengeance
+  - storm_of_vengeance
 tags:
   - spell
 druid: true

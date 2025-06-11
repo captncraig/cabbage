@@ -3,13 +3,12 @@ title: Aura of Life
 source: PHB
 level: 4
 school: A
-prepared: false
 id: aura_of_life
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_aura_of_life
+  - aura_of_life
 tags:
   - spell
 cleric: true

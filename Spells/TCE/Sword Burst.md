@@ -3,13 +3,12 @@ title: Sword Burst
 source: TCE
 level: 0
 school: C
-prepared: false
 id: sword_burst
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_sword_burst
+  - sword_burst
 tags:
   - spell
 artificer: true

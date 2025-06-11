@@ -3,13 +3,12 @@ title: Plant Growth
 source: PHB
 level: 3
 school: T
-prepared: false
 id: plant_growth
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_plant_growth
+  - plant_growth
 tags:
   - spell
 bard: true

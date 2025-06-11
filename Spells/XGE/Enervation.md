@@ -3,13 +3,12 @@ title: Enervation
 source: XGE
 level: 5
 school: N
-prepared: false
 id: enervation
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_enervation
+  - enervation
 tags:
   - spell
 sorcerer: true

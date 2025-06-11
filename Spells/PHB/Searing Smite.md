@@ -3,13 +3,12 @@ title: Searing Smite
 source: PHB
 level: 1
 school: V
-prepared: false
 id: searing_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_searing_smite
+  - searing_smite
 tags:
   - spell
 cleric_forge: true

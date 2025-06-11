@@ -3,13 +3,12 @@ title: Symbol
 source: PHB
 level: 7
 school: A
-prepared: false
 id: symbol
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_symbol
+  - symbol
 tags:
   - spell
 bard: true

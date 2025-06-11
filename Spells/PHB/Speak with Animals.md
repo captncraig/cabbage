@@ -3,13 +3,12 @@ title: Speak with Animals
 source: PHB
 level: 1
 school: D
-prepared: false
 id: speak_with_animals
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_speak_with_animals
+  - speak_with_animals
 tags:
   - spell
 barbarian_totem_warrior: true

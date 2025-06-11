@@ -3,13 +3,12 @@ title: Sunburst
 source: PHB
 level: 8
 school: V
-prepared: false
 id: sunburst
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sunburst
+  - sunburst
 tags:
   - spell
 cleric: true

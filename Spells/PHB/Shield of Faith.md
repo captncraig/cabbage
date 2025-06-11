@@ -3,13 +3,12 @@ title: Shield of Faith
 source: PHB
 level: 1
 school: A
-prepared: false
 id: shield_of_faith
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_shield_of_faith
+  - shield_of_faith
 tags:
   - spell
 cleric: true

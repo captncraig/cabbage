@@ -3,13 +3,12 @@ title: Grasping Vine
 source: PHB
 level: 4
 school: C
-prepared: false
 id: grasping_vine
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_grasping_vine
+  - grasping_vine
 tags:
   - spell
 cleric_nature: true

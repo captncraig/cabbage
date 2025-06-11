@@ -3,13 +3,12 @@ title: Mordenkainen's Sword
 source: PHB
 level: 7
 school: V
-prepared: false
 id: mordenkainen_s_sword
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mordenkainen's_sword
+  - mordenkainen_s_sword
 tags:
   - spell
 bard: true

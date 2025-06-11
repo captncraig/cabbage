@@ -3,13 +3,12 @@ title: Crown of Madness
 source: PHB
 level: 2
 school: E
-prepared: false
 id: crown_of_madness
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_crown_of_madness
+  - crown_of_madness
 tags:
   - spell
 bard: true

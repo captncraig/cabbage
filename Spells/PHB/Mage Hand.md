@@ -3,13 +3,12 @@ title: Mage Hand
 source: PHB
 level: 0
 school: C
-prepared: false
 id: mage_hand
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mage_hand
+  - mage_hand
 tags:
   - spell
 artificer: true

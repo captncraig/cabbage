@@ -3,13 +3,12 @@ title: Earthquake
 source: PHB
 level: 8
 school: V
-prepared: false
 id: earthquake
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_earthquake
+  - earthquake
 tags:
   - spell
 cleric: true

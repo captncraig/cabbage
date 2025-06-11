@@ -3,13 +3,12 @@ title: Magic Jar
 source: PHB
 level: 6
 school: N
-prepared: false
 id: magic_jar
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_magic_jar
+  - magic_jar
 tags:
   - spell
 wizard: true

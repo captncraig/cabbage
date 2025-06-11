@@ -3,13 +3,12 @@ title: Darkvision
 source: PHB
 level: 2
 school: T
-prepared: false
 id: darkvision
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_darkvision
+  - darkvision
 tags:
   - spell
 artificer: true

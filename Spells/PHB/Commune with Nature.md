@@ -3,13 +3,12 @@ title: Commune with Nature
 source: PHB
 level: 5
 school: D
-prepared: false
 id: commune_with_nature
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_commune_with_nature
+  - commune_with_nature
 tags:
   - spell
 barbarian_totem_warrior: true

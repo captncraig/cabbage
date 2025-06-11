@@ -3,13 +3,12 @@ title: Investiture of Ice
 source: XGE
 level: 6
 school: T
-prepared: false
 id: investiture_of_ice
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_investiture_of_ice
+  - investiture_of_ice
 tags:
   - spell
 druid: true

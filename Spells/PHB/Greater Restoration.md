@@ -3,13 +3,12 @@ title: Greater Restoration
 source: PHB
 level: 5
 school: A
-prepared: false
 id: greater_restoration
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_greater_restoration
+  - greater_restoration
 tags:
   - spell
 artificer: true

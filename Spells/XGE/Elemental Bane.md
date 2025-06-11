@@ -3,13 +3,12 @@ title: Elemental Bane
 source: XGE
 level: 4
 school: T
-prepared: false
 id: elemental_bane
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_elemental_bane
+  - elemental_bane
 tags:
   - spell
 artificer: true

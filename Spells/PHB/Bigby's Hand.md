@@ -3,13 +3,12 @@ title: Bigby's Hand
 source: PHB
 level: 5
 school: V
-prepared: false
 id: bigby_s_hand
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_bigby's_hand
+  - bigby_s_hand
 tags:
   - spell
 artificer: true

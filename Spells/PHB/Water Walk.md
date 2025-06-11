@@ -3,13 +3,12 @@ title: Water Walk
 source: PHB
 level: 3
 school: T
-prepared: false
 id: water_walk
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_water_walk
+  - water_walk
 tags:
   - spell
 artificer: true

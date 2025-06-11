@@ -3,13 +3,12 @@ title: Ice Knife
 source: XGE
 level: 1
 school: C
-prepared: false
 id: ice_knife
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_ice_knife
+  - ice_knife
 tags:
   - spell
 druid: true

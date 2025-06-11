@@ -3,13 +3,12 @@ title: Erupting Earth
 source: XGE
 level: 3
 school: T
-prepared: false
 id: erupting_earth
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_erupting_earth
+  - erupting_earth
 tags:
   - spell
 druid: true

@@ -3,13 +3,12 @@ title: Dancing Lights
 source: PHB
 level: 0
 school: V
-prepared: false
 id: dancing_lights
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dancing_lights
+  - dancing_lights
 tags:
   - spell
 artificer: true

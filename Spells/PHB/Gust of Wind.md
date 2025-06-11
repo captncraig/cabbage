@@ -3,13 +3,12 @@ title: Gust of Wind
 source: PHB
 level: 2
 school: V
-prepared: false
 id: gust_of_wind
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_gust_of_wind
+  - gust_of_wind
 tags:
   - spell
 cleric_tempest: true

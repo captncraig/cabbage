@@ -3,13 +3,12 @@ title: Lightning Arrow
 source: PHB
 level: 3
 school: T
-prepared: false
 id: lightning_arrow
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_lightning_arrow
+  - lightning_arrow
 tags:
   - spell
 ranger: true

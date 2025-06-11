@@ -3,13 +3,12 @@ title: Skill Empowerment
 source: XGE
 level: 5
 school: T
-prepared: false
 id: skill_empowerment
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_skill_empowerment
+  - skill_empowerment
 tags:
   - spell
 artificer: true

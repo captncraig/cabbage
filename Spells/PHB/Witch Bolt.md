@@ -3,13 +3,12 @@ title: Witch Bolt
 source: PHB
 level: 1
 school: V
-prepared: false
 id: witch_bolt
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_witch_bolt
+  - witch_bolt
 tags:
   - spell
 fighter_eldritch_knight: true

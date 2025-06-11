@@ -3,13 +3,12 @@ title: Phantasmal Force
 source: PHB
 level: 2
 school: I
-prepared: false
 id: phantasmal_force
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_phantasmal_force
+  - phantasmal_force
 tags:
   - spell
 bard: true

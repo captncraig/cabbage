@@ -3,13 +3,12 @@ title: Hex
 source: PHB
 level: 1
 school: E
-prepared: false
 id: hex
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hex
+  - hex
 tags:
   - spell
 warlock: true

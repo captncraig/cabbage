@@ -3,13 +3,12 @@ title: Danse Macabre
 source: XGE
 level: 5
 school: N
-prepared: false
 id: danse_macabre
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_danse_macabre
+  - danse_macabre
 tags:
   - spell
 warlock: true

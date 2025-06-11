@@ -3,13 +3,12 @@ title: Mass Healing Word
 source: PHB
 level: 3
 school: V
-prepared: false
 id: mass_healing_word
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_mass_healing_word
+  - mass_healing_word
 tags:
   - spell
 artificer_alchemist: true

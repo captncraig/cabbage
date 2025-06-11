@@ -3,13 +3,12 @@ title: Booming Blade
 source: TCE
 level: 0
 school: V
-prepared: false
 id: booming_blade
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_booming_blade
+  - booming_blade
 tags:
   - spell
 artificer: true

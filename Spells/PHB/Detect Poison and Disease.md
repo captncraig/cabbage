@@ -3,13 +3,12 @@ title: Detect Poison and Disease
 source: PHB
 level: 1
 school: D
-prepared: false
 id: detect_poison_and_disease
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_detect_poison_and_disease
+  - detect_poison_and_disease
 tags:
   - spell
 cleric: true

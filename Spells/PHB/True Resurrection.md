@@ -3,13 +3,12 @@ title: True Resurrection
 source: PHB
 level: 9
 school: N
-prepared: false
 id: true_resurrection
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_true_resurrection
+  - true_resurrection
 tags:
   - spell
 cleric: true

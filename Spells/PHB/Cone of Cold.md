@@ -3,13 +3,12 @@ title: Cone of Cold
 source: PHB
 level: 5
 school: V
-prepared: false
 id: cone_of_cold
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_cone_of_cold
+  - cone_of_cold
 tags:
   - spell
 artificer_artillerist: true

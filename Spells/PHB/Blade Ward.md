@@ -3,13 +3,12 @@ title: Blade Ward
 source: PHB
 level: 0
 school: A
-prepared: false
 id: blade_ward
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_blade_ward
+  - blade_ward
 tags:
   - spell
 bard: true

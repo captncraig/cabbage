@@ -3,13 +3,12 @@ title: Dispel Evil and Good
 source: PHB
 level: 5
 school: A
-prepared: false
 id: dispel_evil_and_good
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dispel_evil_and_good
+  - dispel_evil_and_good
 tags:
   - spell
 cleric: true

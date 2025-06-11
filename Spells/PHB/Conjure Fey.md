@@ -3,13 +3,12 @@ title: Conjure Fey
 source: PHB
 level: 6
 school: C
-prepared: false
 id: conjure_fey
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_conjure_fey
+  - conjure_fey
 tags:
   - spell
 druid: true

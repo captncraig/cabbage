@@ -3,13 +3,12 @@ title: Mirage Arcane
 source: PHB
 level: 7
 school: I
-prepared: false
 id: mirage_arcane
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mirage_arcane
+  - mirage_arcane
 tags:
   - spell
 bard: true

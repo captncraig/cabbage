@@ -3,13 +3,12 @@ title: Clone
 source: PHB
 level: 8
 school: N
-prepared: false
 id: clone
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_clone
+  - clone
 tags:
   - spell
 wizard: true

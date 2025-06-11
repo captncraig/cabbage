@@ -3,13 +3,12 @@ title: Druidcraft
 source: PHB
 level: 0
 school: T
-prepared: false
 id: druidcraft
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_druidcraft
+  - druidcraft
 tags:
   - spell
 cleric_nature: true

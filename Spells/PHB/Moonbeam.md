@@ -3,13 +3,12 @@ title: Moonbeam
 source: PHB
 level: 2
 school: V
-prepared: false
 id: moonbeam
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_moonbeam
+  - moonbeam
 tags:
   - spell
 cleric_twilight: true

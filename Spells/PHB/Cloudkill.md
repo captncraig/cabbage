@@ -3,13 +3,12 @@ title: Cloudkill
 source: PHB
 level: 5
 school: C
-prepared: false
 id: cloudkill
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_cloudkill
+  - cloudkill
 tags:
   - spell
 artificer_alchemist: true

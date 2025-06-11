@@ -3,13 +3,12 @@ title: Shapechange
 source: PHB
 level: 9
 school: T
-prepared: false
 id: shapechange
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_shapechange
+  - shapechange
 tags:
   - spell
 druid: true

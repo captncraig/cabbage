@@ -3,13 +3,12 @@ title: Glibness
 source: PHB
 level: 8
 school: T
-prepared: false
 id: glibness
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_glibness
+  - glibness
 tags:
   - spell
 bard: true

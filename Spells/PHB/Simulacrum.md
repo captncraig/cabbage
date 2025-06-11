@@ -3,13 +3,12 @@ title: Simulacrum
 source: PHB
 level: 7
 school: I
-prepared: false
 id: simulacrum
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_simulacrum
+  - simulacrum
 tags:
   - spell
 wizard: true

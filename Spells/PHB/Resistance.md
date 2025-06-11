@@ -3,13 +3,12 @@ title: Resistance
 source: PHB
 level: 0
 school: A
-prepared: false
 id: resistance
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_resistance
+  - resistance
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Healing Spirit
 source: XGE
 level: 2
 school: C
-prepared: false
 id: healing_spirit
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_healing_spirit
+  - healing_spirit
 tags:
   - spell
 druid: true

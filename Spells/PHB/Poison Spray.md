@@ -3,13 +3,12 @@ title: Poison Spray
 source: PHB
 level: 0
 school: C
-prepared: false
 id: poison_spray
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_poison_spray
+  - poison_spray
 tags:
   - spell
 artificer: true

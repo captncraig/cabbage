@@ -3,13 +3,12 @@ title: Darkness
 source: PHB
 level: 2
 school: V
-prepared: false
 id: darkness
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_darkness
+  - darkness
 tags:
   - spell
 druid_land: true

@@ -3,13 +3,12 @@ title: Fly
 source: PHB
 level: 3
 school: T
-prepared: false
 id: fly
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_fly
+  - fly
 tags:
   - spell
 artificer: true

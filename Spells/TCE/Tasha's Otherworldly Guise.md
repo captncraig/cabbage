@@ -3,13 +3,12 @@ title: Tasha's Otherworldly Guise
 source: TCE
 level: 6
 school: T
-prepared: false
 id: tasha_s_otherworldly_guise
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tasha's_otherworldly_guise
+  - tasha_s_otherworldly_guise
 tags:
   - spell
 sorcerer: true

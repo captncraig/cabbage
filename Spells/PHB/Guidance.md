@@ -3,13 +3,12 @@ title: Guidance
 source: PHB
 level: 0
 school: D
-prepared: false
 id: guidance
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_guidance
+  - guidance
 tags:
   - spell
 artificer: true

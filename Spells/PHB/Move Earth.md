@@ -3,13 +3,12 @@ title: Move Earth
 source: PHB
 level: 6
 school: T
-prepared: false
 id: move_earth
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_move_earth
+  - move_earth
 tags:
   - spell
 druid: true

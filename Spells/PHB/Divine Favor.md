@@ -3,13 +3,12 @@ title: Divine Favor
 source: PHB
 level: 1
 school: V
-prepared: false
 id: divine_favor
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_divine_favor
+  - divine_favor
 tags:
   - spell
 cleric_war: true

@@ -3,13 +3,12 @@ title: Slow
 source: PHB
 level: 3
 school: T
-prepared: false
 id: slow
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_slow
+  - slow
 tags:
   - spell
 bard: true

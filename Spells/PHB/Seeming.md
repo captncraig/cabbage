@@ -3,13 +3,12 @@ title: Seeming
 source: PHB
 level: 5
 school: I
-prepared: false
 id: seeming
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_seeming
+  - seeming
 tags:
   - spell
 bard: true

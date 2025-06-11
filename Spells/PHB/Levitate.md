@@ -3,13 +3,12 @@ title: Levitate
 source: PHB
 level: 2
 school: T
-prepared: false
 id: levitate
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_levitate
+  - levitate
 tags:
   - spell
 artificer: true

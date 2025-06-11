@@ -3,13 +3,12 @@ title: Green-Flame Blade
 source: TCE
 level: 0
 school: V
-prepared: false
 id: green-flame_blade
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_green-flame_blade
+  - green-flame_blade
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Banishment
 source: PHB
 level: 4
 school: A
-prepared: false
 id: banishment
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_banishment
+  - banishment
 tags:
   - spell
 cleric: true

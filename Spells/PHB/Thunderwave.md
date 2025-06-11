@@ -3,13 +3,12 @@ title: Thunderwave
 source: PHB
 level: 1
 school: V
-prepared: false
 id: thunderwave
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_thunderwave
+  - thunderwave
 tags:
   - spell
 artificer_armorer: true

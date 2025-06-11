@@ -3,13 +3,12 @@ title: Arms of Hadar
 source: PHB
 level: 1
 school: C
-prepared: false
 id: arms_of_hadar
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_arms_of_hadar
+  - arms_of_hadar
 tags:
   - spell
 sorcerer_aberrant_mind: true

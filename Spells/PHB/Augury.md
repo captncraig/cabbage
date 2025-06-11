@@ -3,13 +3,12 @@ title: Augury
 source: PHB
 level: 2
 school: D
-prepared: false
 id: augury
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_augury
+  - augury
 tags:
   - spell
 barbarian_ancestral_guardian: true

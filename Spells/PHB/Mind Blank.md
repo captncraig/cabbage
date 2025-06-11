@@ -3,13 +3,12 @@ title: Mind Blank
 source: PHB
 level: 8
 school: A
-prepared: false
 id: mind_blank
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mind_blank
+  - mind_blank
 tags:
   - spell
 bard: true

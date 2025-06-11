@@ -3,13 +3,12 @@ title: Bestow Curse
 source: PHB
 level: 3
 school: N
-prepared: false
 id: bestow_curse
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_bestow_curse
+  - bestow_curse
 tags:
   - spell
 bard: true

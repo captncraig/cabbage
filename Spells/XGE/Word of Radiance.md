@@ -3,13 +3,12 @@ title: Word of Radiance
 source: XGE
 level: 0
 school: V
-prepared: false
 id: word_of_radiance
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_word_of_radiance
+  - word_of_radiance
 tags:
   - spell
 cleric: true

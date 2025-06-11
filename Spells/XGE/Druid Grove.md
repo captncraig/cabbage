@@ -3,13 +3,12 @@ title: Druid Grove
 source: XGE
 level: 6
 school: A
-prepared: false
 id: druid_grove
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_druid_grove
+  - druid_grove
 tags:
   - spell
 druid: true

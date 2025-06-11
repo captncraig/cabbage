@@ -3,13 +3,12 @@ title: Feeblemind
 source: PHB
 level: 8
 school: E
-prepared: false
 id: feeblemind
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_feeblemind
+  - feeblemind
 tags:
   - spell
 bard: true

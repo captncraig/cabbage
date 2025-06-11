@@ -3,13 +3,12 @@ title: Conjure Celestial
 source: PHB
 level: 7
 school: C
-prepared: false
 id: conjure_celestial
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_conjure_celestial
+  - conjure_celestial
 tags:
   - spell
 cleric: true

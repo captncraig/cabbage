@@ -3,13 +3,12 @@ title: Dispel Magic
 source: PHB
 level: 3
 school: A
-prepared: false
 id: dispel_magic
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_dispel_magic
+  - dispel_magic
 tags:
   - spell
 artificer: true

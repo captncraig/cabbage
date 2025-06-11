@@ -3,13 +3,12 @@ title: Watery Sphere
 source: XGE
 level: 4
 school: C
-prepared: false
 id: watery_sphere
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_watery_sphere
+  - watery_sphere
 tags:
   - spell
 druid: true

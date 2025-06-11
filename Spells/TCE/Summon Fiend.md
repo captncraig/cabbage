@@ -3,13 +3,12 @@ title: Summon Fiend
 source: TCE
 level: 6
 school: C
-prepared: false
 id: summon_fiend
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_fiend
+  - summon_fiend
 tags:
   - spell
 warlock: true

@@ -3,13 +3,12 @@ title: Enlarge/Reduce
 source: PHB
 level: 2
 school: T
-prepared: false
 id: enlarge_reduce
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_enlarge/reduce
+  - enlarge_reduce
 tags:
   - spell
 artificer: true

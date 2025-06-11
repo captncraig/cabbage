@@ -3,13 +3,12 @@ title: Antilife Shell
 source: PHB
 level: 5
 school: A
-prepared: false
 id: antilife_shell
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_antilife_shell
+  - antilife_shell
 tags:
   - spell
 cleric_grave: true

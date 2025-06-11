@@ -3,13 +3,12 @@ title: Divination
 source: PHB
 level: 4
 school: D
-prepared: false
 id: divination
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_divination
+  - divination
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Heroes' Feast
 source: PHB
 level: 6
 school: C
-prepared: false
 id: heroes__feast
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_heroes'_feast
+  - heroes__feast
 tags:
   - spell
 bard: true

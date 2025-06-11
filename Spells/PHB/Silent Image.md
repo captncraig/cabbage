@@ -3,13 +3,12 @@ title: Silent Image
 source: PHB
 level: 1
 school: I
-prepared: false
 id: silent_image
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_silent_image
+  - silent_image
 tags:
   - spell
 bard: true

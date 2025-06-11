@@ -3,13 +3,12 @@ title: Fear
 source: PHB
 level: 3
 school: I
-prepared: false
 id: fear
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_fear
+  - fear
 tags:
   - spell
 bard: true

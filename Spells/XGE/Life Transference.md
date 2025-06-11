@@ -3,13 +3,12 @@ title: Life Transference
 source: XGE
 level: 3
 school: N
-prepared: false
 id: life_transference
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_life_transference
+  - life_transference
 tags:
   - spell
 cleric: true

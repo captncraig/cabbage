@@ -3,13 +3,12 @@ title: Find Familiar
 source: PHB
 level: 1
 school: C
-prepared: false
 id: find_familiar
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_find_familiar
+  - find_familiar
 tags:
   - spell
 fighter_eldritch_knight: true

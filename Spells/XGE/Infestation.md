@@ -3,13 +3,12 @@ title: Infestation
 source: XGE
 level: 0
 school: C
-prepared: false
 id: infestation
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_infestation
+  - infestation
 tags:
   - spell
 cleric_nature: true

@@ -3,13 +3,12 @@ title: Magic Stone
 source: XGE
 level: 0
 school: T
-prepared: false
 id: magic_stone
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_magic_stone
+  - magic_stone
 tags:
   - spell
 artificer: true

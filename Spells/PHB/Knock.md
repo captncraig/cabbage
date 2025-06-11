@@ -3,13 +3,12 @@ title: Knock
 source: PHB
 level: 2
 school: T
-prepared: false
 id: knock
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_knock
+  - knock
 tags:
   - spell
 bard: true

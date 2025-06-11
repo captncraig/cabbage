@@ -3,13 +3,12 @@ title: Maximilian's Earthen Grasp
 source: XGE
 level: 2
 school: T
-prepared: false
 id: maximilian_s_earthen_grasp
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_maximilian's_earthen_grasp
+  - maximilian_s_earthen_grasp
 tags:
   - spell
 fighter_eldritch_knight: true

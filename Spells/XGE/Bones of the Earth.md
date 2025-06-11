@@ -3,13 +3,12 @@ title: Bones of the Earth
 source: XGE
 level: 6
 school: T
-prepared: false
 id: bones_of_the_earth
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_bones_of_the_earth
+  - bones_of_the_earth
 tags:
   - spell
 druid: true

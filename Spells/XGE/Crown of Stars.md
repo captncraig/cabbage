@@ -3,13 +3,12 @@ title: Crown of Stars
 source: XGE
 level: 7
 school: V
-prepared: false
 id: crown_of_stars
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_crown_of_stars
+  - crown_of_stars
 tags:
   - spell
 sorcerer: true

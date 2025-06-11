@@ -3,13 +3,12 @@ title: Locate Animals or Plants
 source: PHB
 level: 2
 school: D
-prepared: false
 id: locate_animals_or_plants
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_locate_animals_or_plants
+  - locate_animals_or_plants
 tags:
   - spell
 bard: true

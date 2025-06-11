@@ -3,13 +3,12 @@ title: Hallow
 source: PHB
 level: 5
 school: V
-prepared: false
 id: hallow
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hallow
+  - hallow
 tags:
   - spell
 cleric: true

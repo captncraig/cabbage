@@ -3,13 +3,12 @@ title: Giant Insect
 source: PHB
 level: 4
 school: T
-prepared: false
 id: giant_insect
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_giant_insect
+  - giant_insect
 tags:
   - spell
 druid: true

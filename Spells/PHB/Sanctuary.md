@@ -3,13 +3,12 @@ title: Sanctuary
 source: PHB
 level: 1
 school: A
-prepared: false
 id: sanctuary
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sanctuary
+  - sanctuary
 tags:
   - spell
 artificer: true

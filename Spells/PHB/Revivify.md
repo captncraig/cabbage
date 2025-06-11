@@ -3,13 +3,12 @@ title: Revivify
 source: PHB
 level: 3
 school: N
-prepared: false
 id: revivify
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_revivify
+  - revivify
 tags:
   - spell
 artificer: true

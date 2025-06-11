@@ -3,13 +3,12 @@ title: Purify Food and Drink
 source: PHB
 level: 1
 school: T
-prepared: false
 id: purify_food_and_drink
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_purify_food_and_drink
+  - purify_food_and_drink
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Find the Path
 source: PHB
 level: 6
 school: D
-prepared: false
 id: find_the_path
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_find_the_path
+  - find_the_path
 tags:
   - spell
 bard: true

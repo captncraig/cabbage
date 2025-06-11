@@ -3,13 +3,12 @@ title: Psychic Scream
 source: XGE
 level: 9
 school: E
-prepared: false
 id: psychic_scream
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_psychic_scream
+  - psychic_scream
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Evard's Black Tentacles
 source: PHB
 level: 4
 school: C
-prepared: false
 id: evard_s_black_tentacles
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_evard's_black_tentacles
+  - evard_s_black_tentacles
 tags:
   - spell
 fighter_eldritch_knight: true

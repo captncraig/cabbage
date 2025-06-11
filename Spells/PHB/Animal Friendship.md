@@ -3,13 +3,12 @@ title: Animal Friendship
 source: PHB
 level: 1
 school: E
-prepared: false
 id: animal_friendship
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_animal_friendship
+  - animal_friendship
 tags:
   - spell
 bard: true

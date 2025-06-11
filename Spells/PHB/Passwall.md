@@ -3,13 +3,12 @@ title: Passwall
 source: PHB
 level: 5
 school: T
-prepared: false
 id: passwall
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_passwall
+  - passwall
 tags:
   - spell
 artificer_armorer: true

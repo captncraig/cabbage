@@ -3,13 +3,12 @@ title: Detect Magic
 source: PHB
 level: 1
 school: D
-prepared: false
 id: detect_magic
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_detect_magic
+  - detect_magic
 tags:
   - spell
 artificer: true

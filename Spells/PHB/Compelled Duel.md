@@ -3,13 +3,12 @@ title: Compelled Duel
 source: PHB
 level: 1
 school: E
-prepared: false
 id: compelled_duel
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_compelled_duel
+  - compelled_duel
 tags:
   - spell
 paladin: true

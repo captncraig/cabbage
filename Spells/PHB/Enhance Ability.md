@@ -3,13 +3,12 @@ title: Enhance Ability
 source: PHB
 level: 2
 school: T
-prepared: false
 id: enhance_ability
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_enhance_ability
+  - enhance_ability
 tags:
   - spell
 artificer: true

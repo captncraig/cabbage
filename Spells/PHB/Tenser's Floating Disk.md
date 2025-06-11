@@ -3,13 +3,12 @@ title: Tenser's Floating Disk
 source: PHB
 level: 1
 school: C
-prepared: false
 id: tenser_s_floating_disk
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tenser's_floating_disk
+  - tenser_s_floating_disk
 tags:
   - spell
 fighter_eldritch_knight: true

@@ -3,13 +3,12 @@ title: Arcane Lock
 source: PHB
 level: 2
 school: A
-prepared: false
 id: arcane_lock
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_arcane_lock
+  - arcane_lock
 tags:
   - spell
 artificer: true

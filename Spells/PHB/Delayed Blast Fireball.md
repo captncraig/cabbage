@@ -3,13 +3,12 @@ title: Delayed Blast Fireball
 source: PHB
 level: 7
 school: V
-prepared: false
 id: delayed_blast_fireball
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_delayed_blast_fireball
+  - delayed_blast_fireball
 tags:
   - spell
 sorcerer: true

@@ -3,13 +3,12 @@ title: Light
 source: PHB
 level: 0
 school: V
-prepared: false
 id: light
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_light
+  - light
 tags:
   - spell
 artificer: true

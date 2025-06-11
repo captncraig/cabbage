@@ -3,13 +3,12 @@ title: Calm Emotions
 source: PHB
 level: 2
 school: E
-prepared: false
 id: calm_emotions
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_calm_emotions
+  - calm_emotions
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Maddening Darkness
 source: XGE
 level: 8
 school: V
-prepared: false
 id: maddening_darkness
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_maddening_darkness
+  - maddening_darkness
 tags:
   - spell
 warlock: true

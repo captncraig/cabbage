@@ -3,13 +3,12 @@ title: Mordenkainen's Private Sanctum
 source: PHB
 level: 4
 school: A
-prepared: false
 id: mordenkainen_s_private_sanctum
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mordenkainen's_private_sanctum
+  - mordenkainen_s_private_sanctum
 tags:
   - spell
 artificer: true

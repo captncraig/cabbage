@@ -3,13 +3,12 @@ title: Aura of Vitality
 source: PHB
 level: 3
 school: V
-prepared: false
 id: aura_of_vitality
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_aura_of_vitality
+  - aura_of_vitality
 tags:
   - spell
 artificer_battle_smith: true

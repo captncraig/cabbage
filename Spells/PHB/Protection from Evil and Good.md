@@ -3,13 +3,12 @@ title: Protection from Evil and Good
 source: PHB
 level: 1
 school: A
-prepared: false
 id: protection_from_evil_and_good
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_protection_from_evil_and_good
+  - protection_from_evil_and_good
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Chromatic Orb
 source: PHB
 level: 1
 school: V
-prepared: false
 id: chromatic_orb
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_chromatic_orb
+  - chromatic_orb
 tags:
   - spell
 fighter_eldritch_knight: true

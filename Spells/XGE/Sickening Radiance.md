@@ -3,13 +3,12 @@ title: Sickening Radiance
 source: XGE
 level: 4
 school: V
-prepared: false
 id: sickening_radiance
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_sickening_radiance
+  - sickening_radiance
 tags:
   - spell
 fighter_eldritch_knight: true

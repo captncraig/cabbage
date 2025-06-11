@@ -3,13 +3,12 @@ title: Spider Climb
 source: PHB
 level: 2
 school: T
-prepared: false
 id: spider_climb
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_spider_climb
+  - spider_climb
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Find Traps
 source: PHB
 level: 2
 school: D
-prepared: false
 id: find_traps
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_find_traps
+  - find_traps
 tags:
   - spell
 cleric: true

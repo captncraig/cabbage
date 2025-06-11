@@ -3,13 +3,12 @@ title: Animate Dead
 source: PHB
 level: 3
 school: N
-prepared: false
 id: animate_dead
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_animate_dead
+  - animate_dead
 tags:
   - spell
 cleric: true

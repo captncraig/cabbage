@@ -3,13 +3,12 @@ title: Wrath of Nature
 source: XGE
 level: 5
 school: V
-prepared: false
 id: wrath_of_nature
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_wrath_of_nature
+  - wrath_of_nature
 tags:
   - spell
 druid: true

@@ -3,13 +3,12 @@ title: Flaming Sphere
 source: PHB
 level: 2
 school: C
-prepared: false
 id: flaming_sphere
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_flaming_sphere
+  - flaming_sphere
 tags:
   - spell
 artificer_alchemist: true

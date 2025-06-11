@@ -3,13 +3,12 @@ title: Warding Bond
 source: PHB
 level: 2
 school: A
-prepared: false
 id: warding_bond
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_warding_bond
+  - warding_bond
 tags:
   - spell
 artificer_battle_smith: true

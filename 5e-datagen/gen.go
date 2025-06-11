@@ -265,13 +265,12 @@ title: {{.Name}}
 source: {{.Source}}
 level: {{.Level}}
 school: {{.School}}
-prepared: false
 id: {{.IDString}}
 verbal: {{.Components.Verbal}}
 somatic: {{.Components.Somatic}}
 material: {{ne .Components.Material nil}}
 aliases:
-  - {{.Alias}}
+  - {{.IDString}}
 tags:
   - spell
 {{range .Lists}}{{.}}: true

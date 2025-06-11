@@ -3,13 +3,12 @@ title: Temple of the Gods
 source: XGE
 level: 7
 school: C
-prepared: false
 id: temple_of_the_gods
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_temple_of_the_gods
+  - temple_of_the_gods
 tags:
   - spell
 cleric: true

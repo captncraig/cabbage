@@ -3,13 +3,12 @@ title: Goodberry
 source: PHB
 level: 1
 school: T
-prepared: false
 id: goodberry
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_goodberry
+  - goodberry
 tags:
   - spell
 druid: true

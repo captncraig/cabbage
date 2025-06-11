@@ -3,13 +3,12 @@ title: Scatter
 source: XGE
 level: 6
 school: C
-prepared: false
 id: scatter
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_scatter
+  - scatter
 tags:
   - spell
 sorcerer: true

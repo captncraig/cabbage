@@ -3,13 +3,12 @@ title: Prestidigitation
 source: PHB
 level: 0
 school: T
-prepared: false
 id: prestidigitation
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_prestidigitation
+  - prestidigitation
 tags:
   - spell
 artificer: true

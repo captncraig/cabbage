@@ -3,13 +3,12 @@ title: Weird
 source: PHB
 level: 9
 school: I
-prepared: false
 id: weird
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_weird
+  - weird
 tags:
   - spell
 warlock: true

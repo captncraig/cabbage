@@ -3,13 +3,12 @@ title: Mending
 source: PHB
 level: 0
 school: T
-prepared: false
 id: mending
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mending
+  - mending
 tags:
   - spell
 artificer: true

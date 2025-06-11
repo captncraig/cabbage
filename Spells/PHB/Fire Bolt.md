@@ -3,13 +3,12 @@ title: Fire Bolt
 source: PHB
 level: 0
 school: V
-prepared: false
 id: fire_bolt
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_fire_bolt
+  - fire_bolt
 tags:
   - spell
 artificer: true

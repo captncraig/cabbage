@@ -3,13 +3,12 @@ title: Vitriolic Sphere
 source: XGE
 level: 4
 school: V
-prepared: false
 id: vitriolic_sphere
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_vitriolic_sphere
+  - vitriolic_sphere
 tags:
   - spell
 fighter_eldritch_knight: true

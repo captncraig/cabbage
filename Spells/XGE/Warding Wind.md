@@ -3,13 +3,12 @@ title: Warding Wind
 source: XGE
 level: 2
 school: V
-prepared: false
 id: warding_wind
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_warding_wind
+  - warding_wind
 tags:
   - spell
 bard: true

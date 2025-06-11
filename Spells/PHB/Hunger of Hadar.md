@@ -3,13 +3,12 @@ title: Hunger of Hadar
 source: PHB
 level: 3
 school: C
-prepared: false
 id: hunger_of_hadar
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hunger_of_hadar
+  - hunger_of_hadar
 tags:
   - spell
 sorcerer_aberrant_mind: true

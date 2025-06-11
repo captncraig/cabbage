@@ -3,13 +3,12 @@ title: Create Homunculus
 source: XGE
 level: 6
 school: T
-prepared: false
 id: create_homunculus
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_create_homunculus
+  - create_homunculus
 tags:
   - spell
 wizard: true

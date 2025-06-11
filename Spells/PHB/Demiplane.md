@@ -3,13 +3,12 @@ title: Demiplane
 source: PHB
 level: 8
 school: C
-prepared: false
 id: demiplane
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_demiplane
+  - demiplane
 tags:
   - spell
 sorcerer: true

@@ -3,13 +3,12 @@ title: Creation
 source: PHB
 level: 5
 school: I
-prepared: false
 id: creation
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_creation
+  - creation
 tags:
   - spell
 artificer: true

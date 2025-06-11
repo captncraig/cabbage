@@ -3,13 +3,12 @@ title: Create Food and Water
 source: PHB
 level: 3
 school: C
-prepared: false
 id: create_food_and_water
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_create_food_and_water
+  - create_food_and_water
 tags:
   - spell
 artificer: true

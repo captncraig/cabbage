@@ -3,13 +3,12 @@ title: Faerie Fire
 source: PHB
 level: 1
 school: V
-prepared: false
 id: faerie_fire
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_faerie_fire
+  - faerie_fire
 tags:
   - spell
 artificer: true

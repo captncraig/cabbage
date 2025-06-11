@@ -3,13 +3,12 @@ title: Acid Splash
 source: PHB
 level: 0
 school: C
-prepared: false
 id: acid_splash
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_acid_splash
+  - acid_splash
 tags:
   - spell
 artificer: true

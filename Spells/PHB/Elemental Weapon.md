@@ -3,13 +3,12 @@ title: Elemental Weapon
 source: PHB
 level: 3
 school: T
-prepared: false
 id: elemental_weapon
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_elemental_weapon
+  - elemental_weapon
 tags:
   - spell
 artificer: true

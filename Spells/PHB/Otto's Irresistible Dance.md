@@ -3,13 +3,12 @@ title: Otto's Irresistible Dance
 source: PHB
 level: 6
 school: E
-prepared: false
 id: otto_s_irresistible_dance
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_otto's_irresistible_dance
+  - otto_s_irresistible_dance
 tags:
   - spell
 bard: true

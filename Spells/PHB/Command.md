@@ -3,13 +3,12 @@ title: Command
 source: PHB
 level: 1
 school: E
-prepared: false
 id: command
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_command
+  - command
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Investiture of Stone
 source: XGE
 level: 6
 school: T
-prepared: false
 id: investiture_of_stone
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_investiture_of_stone
+  - investiture_of_stone
 tags:
   - spell
 druid: true

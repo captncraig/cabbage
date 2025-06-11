@@ -3,13 +3,12 @@ title: Tiny Servant
 source: XGE
 level: 3
 school: T
-prepared: false
 id: tiny_servant
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_tiny_servant
+  - tiny_servant
 tags:
   - spell
 artificer: true

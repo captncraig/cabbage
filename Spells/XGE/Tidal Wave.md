@@ -3,13 +3,12 @@ title: Tidal Wave
 source: XGE
 level: 3
 school: C
-prepared: false
 id: tidal_wave
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tidal_wave
+  - tidal_wave
 tags:
   - spell
 druid: true

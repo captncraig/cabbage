@@ -3,13 +3,12 @@ title: Speak with Plants
 source: PHB
 level: 3
 school: T
-prepared: false
 id: speak_with_plants
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_speak_with_plants
+  - speak_with_plants
 tags:
   - spell
 bard: true

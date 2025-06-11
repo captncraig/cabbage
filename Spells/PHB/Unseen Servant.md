@@ -3,13 +3,12 @@ title: Unseen Servant
 source: PHB
 level: 1
 school: C
-prepared: false
 id: unseen_servant
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_unseen_servant
+  - unseen_servant
 tags:
   - spell
 bard: true

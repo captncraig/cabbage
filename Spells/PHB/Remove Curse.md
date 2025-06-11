@@ -3,13 +3,12 @@ title: Remove Curse
 source: PHB
 level: 3
 school: A
-prepared: false
 id: remove_curse
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_remove_curse
+  - remove_curse
 tags:
   - spell
 cleric: true

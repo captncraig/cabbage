@@ -3,13 +3,12 @@ title: Thunderclap
 source: XGE
 level: 0
 school: V
-prepared: false
 id: thunderclap
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_thunderclap
+  - thunderclap
 tags:
   - spell
 artificer: true

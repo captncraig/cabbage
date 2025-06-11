@@ -3,13 +3,12 @@ title: Locate Object
 source: PHB
 level: 2
 school: D
-prepared: false
 id: locate_object
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_locate_object
+  - locate_object
 tags:
   - spell
 bard: true

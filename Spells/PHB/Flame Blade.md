@@ -3,13 +3,12 @@ title: Flame Blade
 source: PHB
 level: 2
 school: V
-prepared: false
 id: flame_blade
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_flame_blade
+  - flame_blade
 tags:
   - spell
 druid: true

@@ -3,13 +3,12 @@ title: Phantom Steed
 source: PHB
 level: 3
 school: I
-prepared: false
 id: phantom_steed
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_phantom_steed
+  - phantom_steed
 tags:
   - spell
 fighter_eldritch_knight: true

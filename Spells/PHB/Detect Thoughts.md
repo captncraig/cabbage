@@ -3,13 +3,12 @@ title: Detect Thoughts
 source: PHB
 level: 2
 school: D
-prepared: false
 id: detect_thoughts
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_detect_thoughts
+  - detect_thoughts
 tags:
   - spell
 bard: true

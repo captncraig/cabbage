@@ -3,13 +3,12 @@ title: Mass Heal
 source: PHB
 level: 9
 school: V
-prepared: false
 id: mass_heal
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mass_heal
+  - mass_heal
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Summon Celestial
 source: TCE
 level: 5
 school: C
-prepared: false
 id: summon_celestial
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_celestial
+  - summon_celestial
 tags:
   - spell
 cleric: true

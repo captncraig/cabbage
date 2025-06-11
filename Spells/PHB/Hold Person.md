@@ -3,13 +3,12 @@ title: Hold Person
 source: PHB
 level: 2
 school: E
-prepared: false
 id: hold_person
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hold_person
+  - hold_person
 tags:
   - spell
 bard: true

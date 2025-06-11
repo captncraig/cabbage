@@ -3,13 +3,12 @@ title: Prismatic Wall
 source: PHB
 level: 9
 school: A
-prepared: false
 id: prismatic_wall
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_prismatic_wall
+  - prismatic_wall
 tags:
   - spell
 bard: true

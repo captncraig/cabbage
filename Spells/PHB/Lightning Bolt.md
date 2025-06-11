@@ -3,13 +3,12 @@ title: Lightning Bolt
 source: PHB
 level: 3
 school: V
-prepared: false
 id: lightning_bolt
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_lightning_bolt
+  - lightning_bolt
 tags:
   - spell
 artificer_armorer: true

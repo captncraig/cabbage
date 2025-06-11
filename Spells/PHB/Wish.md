@@ -3,13 +3,12 @@ title: Wish
 source: PHB
 level: 9
 school: C
-prepared: false
 id: wish
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_wish
+  - wish
 tags:
   - spell
 sorcerer: true

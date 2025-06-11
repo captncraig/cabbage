@@ -3,13 +3,12 @@ title: Alarm
 source: PHB
 level: 1
 school: A
-prepared: false
 id: alarm
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_alarm
+  - alarm
 tags:
   - spell
 artificer: true

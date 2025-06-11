@@ -3,13 +3,12 @@ title: Summon Undead
 source: TCE
 level: 3
 school: N
-prepared: false
 id: summon_undead
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_undead
+  - summon_undead
 tags:
   - spell
 fighter_eldritch_knight: true

@@ -3,13 +3,12 @@ title: Flame Strike
 source: PHB
 level: 5
 school: V
-prepared: false
 id: flame_strike
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_flame_strike
+  - flame_strike
 tags:
   - spell
 cleric: true

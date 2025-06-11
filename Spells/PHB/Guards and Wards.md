@@ -3,13 +3,12 @@ title: Guards and Wards
 source: PHB
 level: 6
 school: A
-prepared: false
 id: guards_and_wards
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_guards_and_wards
+  - guards_and_wards
 tags:
   - spell
 bard: true

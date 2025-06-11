@@ -3,13 +3,12 @@ title: Gaseous Form
 source: PHB
 level: 3
 school: T
-prepared: false
 id: gaseous_form
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_gaseous_form
+  - gaseous_form
 tags:
   - spell
 artificer_alchemist: true

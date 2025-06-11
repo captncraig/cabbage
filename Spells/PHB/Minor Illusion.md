@@ -3,13 +3,12 @@ title: Minor Illusion
 source: PHB
 level: 0
 school: I
-prepared: false
 id: minor_illusion
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_minor_illusion
+  - minor_illusion
 tags:
   - spell
 bard: true

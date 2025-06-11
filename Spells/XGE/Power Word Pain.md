@@ -3,13 +3,12 @@ title: Power Word Pain
 source: XGE
 level: 7
 school: E
-prepared: false
 id: power_word_pain
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_power_word_pain
+  - power_word_pain
 tags:
   - spell
 sorcerer: true

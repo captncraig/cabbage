@@ -3,13 +3,12 @@ title: Beast Sense
 source: PHB
 level: 2
 school: D
-prepared: false
 id: beast_sense
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_beast_sense
+  - beast_sense
 tags:
   - spell
 barbarian_totem_warrior: true

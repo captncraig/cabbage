@@ -3,13 +3,12 @@ title: Shield
 source: PHB
 level: 1
 school: A
-prepared: false
 id: shield
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_shield
+  - shield
 tags:
   - spell
 artificer_artillerist: true

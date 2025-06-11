@@ -3,13 +3,12 @@ title: Catnap
 source: XGE
 level: 3
 school: E
-prepared: false
 id: catnap
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_catnap
+  - catnap
 tags:
   - spell
 artificer: true

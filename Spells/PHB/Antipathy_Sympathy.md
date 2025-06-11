@@ -3,13 +3,12 @@ title: Antipathy/Sympathy
 source: PHB
 level: 8
 school: E
-prepared: false
 id: antipathy_sympathy
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_antipathy/sympathy
+  - antipathy_sympathy
 tags:
   - spell
 bard: true

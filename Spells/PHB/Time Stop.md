@@ -3,13 +3,12 @@ title: Time Stop
 source: PHB
 level: 9
 school: T
-prepared: false
 id: time_stop
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_time_stop
+  - time_stop
 tags:
   - spell
 sorcerer: true

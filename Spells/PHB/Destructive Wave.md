@@ -3,13 +3,12 @@ title: Destructive Wave
 source: PHB
 level: 5
 school: V
-prepared: false
 id: destructive_wave
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_destructive_wave
+  - destructive_wave
 tags:
   - spell
 cleric_tempest: true

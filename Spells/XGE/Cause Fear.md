@@ -3,13 +3,12 @@ title: Cause Fear
 source: XGE
 level: 1
 school: N
-prepared: false
 id: cause_fear
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_cause_fear
+  - cause_fear
 tags:
   - spell
 fighter_eldritch_knight: true

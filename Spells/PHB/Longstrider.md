@@ -3,13 +3,12 @@ title: Longstrider
 source: PHB
 level: 1
 school: T
-prepared: false
 id: longstrider
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_longstrider
+  - longstrider
 tags:
   - spell
 artificer: true

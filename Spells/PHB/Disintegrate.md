@@ -3,13 +3,12 @@ title: Disintegrate
 source: PHB
 level: 6
 school: T
-prepared: false
 id: disintegrate
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_disintegrate
+  - disintegrate
 tags:
   - spell
 sorcerer: true

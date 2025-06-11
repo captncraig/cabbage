@@ -3,13 +3,12 @@ title: Cordon of Arrows
 source: PHB
 level: 2
 school: T
-prepared: false
 id: cordon_of_arrows
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_cordon_of_arrows
+  - cordon_of_arrows
 tags:
   - spell
 ranger: true

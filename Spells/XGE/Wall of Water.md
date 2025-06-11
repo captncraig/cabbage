@@ -3,13 +3,12 @@ title: Wall of Water
 source: XGE
 level: 3
 school: V
-prepared: false
 id: wall_of_water
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_water
+  - wall_of_water
 tags:
   - spell
 druid: true

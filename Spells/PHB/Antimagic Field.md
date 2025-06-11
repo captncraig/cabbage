@@ -3,13 +3,12 @@ title: Antimagic Field
 source: PHB
 level: 8
 school: A
-prepared: false
 id: antimagic_field
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_antimagic_field
+  - antimagic_field
 tags:
   - spell
 cleric: true

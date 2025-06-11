@@ -3,13 +3,12 @@ title: Insect Plague
 source: PHB
 level: 5
 school: C
-prepared: false
 id: insect_plague
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_insect_plague
+  - insect_plague
 tags:
   - spell
 cleric: true

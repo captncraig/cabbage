@@ -3,13 +3,12 @@ title: Astral Projection
 source: PHB
 level: 9
 school: N
-prepared: false
 id: astral_projection
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_astral_projection
+  - astral_projection
 tags:
   - spell
 cleric: true

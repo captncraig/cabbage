@@ -3,13 +3,12 @@ title: Blade Barrier
 source: PHB
 level: 6
 school: V
-prepared: false
 id: blade_barrier
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_blade_barrier
+  - blade_barrier
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Conjure Volley
 source: PHB
 level: 5
 school: C
-prepared: false
 id: conjure_volley
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_conjure_volley
+  - conjure_volley
 tags:
   - spell
 ranger: true

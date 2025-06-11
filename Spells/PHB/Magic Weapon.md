@@ -3,13 +3,12 @@ title: Magic Weapon
 source: PHB
 level: 2
 school: T
-prepared: false
 id: magic_weapon
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_magic_weapon
+  - magic_weapon
 tags:
   - spell
 artificer: true

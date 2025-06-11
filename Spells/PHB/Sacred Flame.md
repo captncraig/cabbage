@@ -3,13 +3,12 @@ title: Sacred Flame
 source: PHB
 level: 0
 school: V
-prepared: false
 id: sacred_flame
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_sacred_flame
+  - sacred_flame
 tags:
   - spell
 cleric: true

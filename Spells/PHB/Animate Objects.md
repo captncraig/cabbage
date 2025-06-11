@@ -3,13 +3,12 @@ title: Animate Objects
 source: PHB
 level: 5
 school: T
-prepared: false
 id: animate_objects
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_animate_objects
+  - animate_objects
 tags:
   - spell
 artificer: true

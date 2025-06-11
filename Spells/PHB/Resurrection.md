@@ -3,13 +3,12 @@ title: Resurrection
 source: PHB
 level: 7
 school: N
-prepared: false
 id: resurrection
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_resurrection
+  - resurrection
 tags:
   - spell
 bard: true

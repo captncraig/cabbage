@@ -3,13 +3,12 @@ title: Message
 source: PHB
 level: 0
 school: T
-prepared: false
 id: message
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_message
+  - message
 tags:
   - spell
 artificer: true

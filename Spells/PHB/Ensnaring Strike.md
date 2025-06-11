@@ -3,13 +3,12 @@ title: Ensnaring Strike
 source: PHB
 level: 1
 school: C
-prepared: false
 id: ensnaring_strike
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_ensnaring_strike
+  - ensnaring_strike
 tags:
   - spell
 paladin_ancients: true

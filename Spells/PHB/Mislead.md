@@ -3,13 +3,12 @@ title: Mislead
 source: PHB
 level: 5
 school: I
-prepared: false
 id: mislead
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_mislead
+  - mislead
 tags:
   - spell
 bard: true

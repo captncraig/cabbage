@@ -3,13 +3,12 @@ title: Pyrotechnics
 source: XGE
 level: 2
 school: T
-prepared: false
 id: pyrotechnics
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_pyrotechnics
+  - pyrotechnics
 tags:
   - spell
 artificer: true

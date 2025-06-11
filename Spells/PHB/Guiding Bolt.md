@@ -3,13 +3,12 @@ title: Guiding Bolt
 source: PHB
 level: 1
 school: V
-prepared: false
 id: guiding_bolt
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_guiding_bolt
+  - guiding_bolt
 tags:
   - spell
 cleric: true

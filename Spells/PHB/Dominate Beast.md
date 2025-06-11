@@ -3,13 +3,12 @@ title: Dominate Beast
 source: PHB
 level: 4
 school: E
-prepared: false
 id: dominate_beast
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_dominate_beast
+  - dominate_beast
 tags:
   - spell
 cleric_nature: true

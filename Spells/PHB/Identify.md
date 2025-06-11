@@ -3,13 +3,12 @@ title: Identify
 source: PHB
 level: 1
 school: D
-prepared: false
 id: identify
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_identify
+  - identify
 tags:
   - spell
 artificer: true

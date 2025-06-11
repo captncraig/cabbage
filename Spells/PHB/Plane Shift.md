@@ -3,13 +3,12 @@ title: Plane Shift
 source: PHB
 level: 7
 school: C
-prepared: false
 id: plane_shift
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_plane_shift
+  - plane_shift
 tags:
   - spell
 cleric: true

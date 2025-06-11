@@ -3,13 +3,12 @@ title: Continual Flame
 source: PHB
 level: 2
 school: V
-prepared: false
 id: continual_flame
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_continual_flame
+  - continual_flame
 tags:
   - spell
 artificer: true

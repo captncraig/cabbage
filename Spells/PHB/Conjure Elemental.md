@@ -3,13 +3,12 @@ title: Conjure Elemental
 source: PHB
 level: 5
 school: C
-prepared: false
 id: conjure_elemental
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_conjure_elemental
+  - conjure_elemental
 tags:
   - spell
 druid: true

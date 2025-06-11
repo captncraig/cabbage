@@ -3,13 +3,12 @@ title: Maelstrom
 source: XGE
 level: 5
 school: V
-prepared: false
 id: maelstrom
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_maelstrom
+  - maelstrom
 tags:
   - spell
 druid: true

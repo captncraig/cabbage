@@ -3,13 +3,12 @@ title: Blink
 source: PHB
 level: 3
 school: T
-prepared: false
 id: blink
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_blink
+  - blink
 tags:
   - spell
 artificer: true

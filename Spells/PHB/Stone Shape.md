@@ -3,13 +3,12 @@ title: Stone Shape
 source: PHB
 level: 4
 school: T
-prepared: false
 id: stone_shape
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_stone_shape
+  - stone_shape
 tags:
   - spell
 artificer: true

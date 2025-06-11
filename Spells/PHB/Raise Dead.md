@@ -3,13 +3,12 @@ title: Raise Dead
 source: PHB
 level: 5
 school: N
-prepared: false
 id: raise_dead
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_raise_dead
+  - raise_dead
 tags:
   - spell
 artificer_alchemist: true

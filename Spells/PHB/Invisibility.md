@@ -3,13 +3,12 @@ title: Invisibility
 source: PHB
 level: 2
 school: I
-prepared: false
 id: invisibility
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_invisibility
+  - invisibility
 tags:
   - spell
 artificer: true

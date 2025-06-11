@@ -3,13 +3,12 @@ title: Thorn Whip
 source: PHB
 level: 0
 school: T
-prepared: false
 id: thorn_whip
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_thorn_whip
+  - thorn_whip
 tags:
   - spell
 artificer: true

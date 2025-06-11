@@ -3,13 +3,12 @@ title: Wall of Sand
 source: XGE
 level: 3
 school: V
-prepared: false
 id: wall_of_sand
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_sand
+  - wall_of_sand
 tags:
   - spell
 fighter_eldritch_knight: true

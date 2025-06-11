@@ -3,13 +3,12 @@ title: Transport via Plants
 source: PHB
 level: 6
 school: C
-prepared: false
 id: transport_via_plants
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_transport_via_plants
+  - transport_via_plants
 tags:
   - spell
 druid: true

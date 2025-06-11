@@ -3,13 +3,12 @@ title: Meld into Stone
 source: PHB
 level: 3
 school: T
-prepared: false
 id: meld_into_stone
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_meld_into_stone
+  - meld_into_stone
 tags:
   - spell
 cleric: true

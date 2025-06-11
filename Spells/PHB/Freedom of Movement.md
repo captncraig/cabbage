@@ -3,13 +3,12 @@ title: Freedom of Movement
 source: PHB
 level: 4
 school: A
-prepared: false
 id: freedom_of_movement
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_freedom_of_movement
+  - freedom_of_movement
 tags:
   - spell
 artificer: true

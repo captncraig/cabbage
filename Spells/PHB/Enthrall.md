@@ -3,13 +3,12 @@ title: Enthrall
 source: PHB
 level: 2
 school: E
-prepared: false
 id: enthrall
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_enthrall
+  - enthrall
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Foresight
 source: PHB
 level: 9
 school: D
-prepared: false
 id: foresight
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_foresight
+  - foresight
 tags:
   - spell
 bard: true

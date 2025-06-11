@@ -3,13 +3,12 @@ title: Spike Growth
 source: PHB
 level: 2
 school: T
-prepared: false
 id: spike_growth
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_spike_growth
+  - spike_growth
 tags:
   - spell
 cleric_nature: true

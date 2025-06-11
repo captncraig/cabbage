@@ -3,13 +3,12 @@ title: Control Flames
 source: XGE
 level: 0
 school: T
-prepared: false
 id: control_flames
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_control_flames
+  - control_flames
 tags:
   - spell
 cleric_nature: true

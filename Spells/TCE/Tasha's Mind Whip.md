@@ -3,13 +3,12 @@ title: Tasha's Mind Whip
 source: TCE
 level: 2
 school: E
-prepared: false
 id: tasha_s_mind_whip
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_tasha's_mind_whip
+  - tasha_s_mind_whip
 tags:
   - spell
 fighter_eldritch_knight: true

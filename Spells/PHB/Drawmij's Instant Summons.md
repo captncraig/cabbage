@@ -3,13 +3,12 @@ title: Drawmij's Instant Summons
 source: PHB
 level: 6
 school: C
-prepared: false
 id: drawmij_s_instant_summons
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_drawmij's_instant_summons
+  - drawmij_s_instant_summons
 tags:
   - spell
 wizard: true

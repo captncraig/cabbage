@@ -3,13 +3,12 @@ title: Magic Mouth
 source: PHB
 level: 2
 school: I
-prepared: false
 id: magic_mouth
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_magic_mouth
+  - magic_mouth
 tags:
   - spell
 artificer: true

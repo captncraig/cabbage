@@ -3,13 +3,12 @@ title: Shatter
 source: PHB
 level: 2
 school: V
-prepared: false
 id: shatter
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_shatter
+  - shatter
 tags:
   - spell
 artificer_armorer: true

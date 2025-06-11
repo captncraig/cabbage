@@ -3,13 +3,12 @@ title: Snare
 source: XGE
 level: 1
 school: A
-prepared: false
 id: snare
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_snare
+  - snare
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Silence
 source: PHB
 level: 2
 school: I
-prepared: false
 id: silence
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_silence
+  - silence
 tags:
   - spell
 bard: true

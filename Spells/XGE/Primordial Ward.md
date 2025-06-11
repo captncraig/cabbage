@@ -3,13 +3,12 @@ title: Primordial Ward
 source: XGE
 level: 6
 school: A
-prepared: false
 id: primordial_ward
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_primordial_ward
+  - primordial_ward
 tags:
   - spell
 druid: true

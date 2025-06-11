@@ -3,13 +3,12 @@ title: Shillelagh
 source: PHB
 level: 0
 school: T
-prepared: false
 id: shillelagh
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_shillelagh
+  - shillelagh
 tags:
   - spell
 cleric_nature: true

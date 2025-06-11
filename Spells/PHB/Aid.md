@@ -3,13 +3,12 @@ title: Aid
 source: PHB
 level: 2
 school: A
-prepared: false
 id: aid
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_aid
+  - aid
 tags:
   - spell
 artificer: true

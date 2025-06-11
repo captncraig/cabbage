@@ -3,13 +3,12 @@ title: Major Image
 source: PHB
 level: 3
 school: I
-prepared: false
 id: major_image
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_major_image
+  - major_image
 tags:
   - spell
 bard: true

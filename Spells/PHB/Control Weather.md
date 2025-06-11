@@ -3,13 +3,12 @@ title: Control Weather
 source: PHB
 level: 8
 school: T
-prepared: false
 id: control_weather
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_control_weather
+  - control_weather
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Word of Recall
 source: PHB
 level: 6
 school: C
-prepared: false
 id: word_of_recall
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_word_of_recall
+  - word_of_recall
 tags:
   - spell
 cleric: true

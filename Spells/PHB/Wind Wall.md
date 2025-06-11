@@ -3,13 +3,12 @@ title: Wind Wall
 source: PHB
 level: 3
 school: V
-prepared: false
 id: wind_wall
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wind_wall
+  - wind_wall
 tags:
   - spell
 artificer_artillerist: true

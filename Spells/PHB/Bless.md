@@ -3,13 +3,12 @@ title: Bless
 source: PHB
 level: 1
 school: E
-prepared: false
 id: bless
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_bless
+  - bless
 tags:
   - spell
 cleric: true

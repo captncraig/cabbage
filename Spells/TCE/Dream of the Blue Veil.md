@@ -3,13 +3,12 @@ title: Dream of the Blue Veil
 source: TCE
 level: 7
 school: C
-prepared: false
 id: dream_of_the_blue_veil
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dream_of_the_blue_veil
+  - dream_of_the_blue_veil
 tags:
   - spell
 bard: true

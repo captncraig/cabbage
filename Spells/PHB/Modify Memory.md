@@ -3,13 +3,12 @@ title: Modify Memory
 source: PHB
 level: 5
 school: E
-prepared: false
 id: modify_memory
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_modify_memory
+  - modify_memory
 tags:
   - spell
 bard: true

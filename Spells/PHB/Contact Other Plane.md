@@ -3,13 +3,12 @@ title: Contact Other Plane
 source: PHB
 level: 5
 school: D
-prepared: false
 id: contact_other_plane
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_contact_other_plane
+  - contact_other_plane
 tags:
   - spell
 warlock: true

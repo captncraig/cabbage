@@ -3,13 +3,12 @@ title: Blight
 source: PHB
 level: 4
 school: N
-prepared: false
 id: blight
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_blight
+  - blight
 tags:
   - spell
 artificer_alchemist: true

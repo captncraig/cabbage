@@ -3,13 +3,12 @@ title: Armor of Agathys
 source: PHB
 level: 1
 school: A
-prepared: false
 id: armor_of_agathys
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_armor_of_agathys
+  - armor_of_agathys
 tags:
   - spell
 paladin_conquest: true

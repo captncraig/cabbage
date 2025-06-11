@@ -3,13 +3,12 @@ title: Counterspell
 source: PHB
 level: 3
 school: A
-prepared: false
 id: counterspell
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_counterspell
+  - counterspell
 tags:
   - spell
 fighter_eldritch_knight: true

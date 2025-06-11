@@ -3,13 +3,12 @@ title: Conjure Animals
 source: PHB
 level: 3
 school: C
-prepared: false
 id: conjure_animals
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_conjure_animals
+  - conjure_animals
 tags:
   - spell
 druid: true

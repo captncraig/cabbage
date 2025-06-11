@@ -3,13 +3,12 @@ title: Banishing Smite
 source: PHB
 level: 5
 school: A
-prepared: false
 id: banishing_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_banishing_smite
+  - banishing_smite
 tags:
   - spell
 artificer_battle_smith: true

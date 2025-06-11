@@ -3,13 +3,12 @@ title: Planar Binding
 source: PHB
 level: 5
 school: A
-prepared: false
 id: planar_binding
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_planar_binding
+  - planar_binding
 tags:
   - spell
 bard: true

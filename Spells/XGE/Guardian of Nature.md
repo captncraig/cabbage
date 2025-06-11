@@ -3,13 +3,12 @@ title: Guardian of Nature
 source: XGE
 level: 4
 school: T
-prepared: false
 id: guardian_of_nature
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_guardian_of_nature
+  - guardian_of_nature
 tags:
   - spell
 druid: true

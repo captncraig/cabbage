@@ -3,13 +3,12 @@ title: Leomund's Secret Chest
 source: PHB
 level: 4
 school: C
-prepared: false
 id: leomund_s_secret_chest
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_leomund's_secret_chest
+  - leomund_s_secret_chest
 tags:
   - spell
 artificer: true

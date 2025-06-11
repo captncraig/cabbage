@@ -3,13 +3,12 @@ title: Detect Evil and Good
 source: PHB
 level: 1
 school: D
-prepared: false
 id: detect_evil_and_good
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_detect_evil_and_good
+  - detect_evil_and_good
 tags:
   - spell
 cleric: true

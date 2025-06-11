@@ -3,13 +3,12 @@ title: Healing Word
 source: PHB
 level: 1
 school: V
-prepared: false
 id: healing_word
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_healing_word
+  - healing_word
 tags:
   - spell
 artificer_alchemist: true

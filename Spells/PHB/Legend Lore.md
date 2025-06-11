@@ -3,13 +3,12 @@ title: Legend Lore
 source: PHB
 level: 5
 school: D
-prepared: false
 id: legend_lore
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_legend_lore
+  - legend_lore
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Power Word Heal
 source: PHB
 level: 9
 school: V
-prepared: false
 id: power_word_heal
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_power_word_heal
+  - power_word_heal
 tags:
   - spell
 bard: true

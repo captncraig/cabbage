@@ -3,13 +3,12 @@ title: Dissonant Whispers
 source: PHB
 level: 1
 school: E
-prepared: false
 id: dissonant_whispers
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_dissonant_whispers
+  - dissonant_whispers
 tags:
   - spell
 bard: true

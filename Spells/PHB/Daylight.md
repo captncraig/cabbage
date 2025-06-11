@@ -3,13 +3,12 @@ title: Daylight
 source: PHB
 level: 3
 school: V
-prepared: false
 id: daylight
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_daylight
+  - daylight
 tags:
   - spell
 cleric: true

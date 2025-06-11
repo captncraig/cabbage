@@ -3,13 +3,12 @@ title: Mold Earth
 source: XGE
 level: 0
 school: T
-prepared: false
 id: mold_earth
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_mold_earth
+  - mold_earth
 tags:
   - spell
 cleric_nature: true

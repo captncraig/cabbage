@@ -3,13 +3,12 @@ title: Investiture of Flame
 source: XGE
 level: 6
 school: T
-prepared: false
 id: investiture_of_flame
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_investiture_of_flame
+  - investiture_of_flame
 tags:
   - spell
 druid: true

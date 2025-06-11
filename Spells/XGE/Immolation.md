@@ -3,13 +3,12 @@ title: Immolation
 source: XGE
 level: 5
 school: V
-prepared: false
 id: immolation
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_immolation
+  - immolation
 tags:
   - spell
 sorcerer: true

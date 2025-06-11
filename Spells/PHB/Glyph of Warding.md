@@ -3,13 +3,12 @@ title: Glyph of Warding
 source: PHB
 level: 3
 school: A
-prepared: false
 id: glyph_of_warding
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_glyph_of_warding
+  - glyph_of_warding
 tags:
   - spell
 artificer: true

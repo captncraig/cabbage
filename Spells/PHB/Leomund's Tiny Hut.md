@@ -3,13 +3,12 @@ title: Leomund's Tiny Hut
 source: PHB
 level: 3
 school: V
-prepared: false
 id: leomund_s_tiny_hut
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_leomund's_tiny_hut
+  - leomund_s_tiny_hut
 tags:
   - spell
 bard: true

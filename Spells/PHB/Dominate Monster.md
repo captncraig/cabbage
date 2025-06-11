@@ -3,13 +3,12 @@ title: Dominate Monster
 source: PHB
 level: 8
 school: E
-prepared: false
 id: dominate_monster
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_dominate_monster
+  - dominate_monster
 tags:
   - spell
 bard: true

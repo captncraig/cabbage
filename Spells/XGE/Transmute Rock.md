@@ -3,13 +3,12 @@ title: Transmute Rock
 source: XGE
 level: 5
 school: T
-prepared: false
 id: transmute_rock
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_transmute_rock
+  - transmute_rock
 tags:
   - spell
 artificer: true

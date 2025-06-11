@@ -3,13 +3,12 @@ title: Find Greater Steed
 source: XGE
 level: 4
 school: C
-prepared: false
 id: find_greater_steed
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_find_greater_steed
+  - find_greater_steed
 tags:
   - spell
 paladin: true

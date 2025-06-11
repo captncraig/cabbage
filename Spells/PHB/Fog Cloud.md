@@ -3,13 +3,12 @@ title: Fog Cloud
 source: PHB
 level: 1
 school: C
-prepared: false
 id: fog_cloud
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_fog_cloud
+  - fog_cloud
 tags:
   - spell
 cleric_tempest: true

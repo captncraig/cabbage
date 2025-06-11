@@ -3,13 +3,12 @@ title: Spirit Guardians
 source: PHB
 level: 3
 school: C
-prepared: false
 id: spirit_guardians
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_spirit_guardians
+  - spirit_guardians
 tags:
   - spell
 cleric: true

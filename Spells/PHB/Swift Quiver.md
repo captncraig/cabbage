@@ -3,13 +3,12 @@ title: Swift Quiver
 source: PHB
 level: 5
 school: T
-prepared: false
 id: swift_quiver
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_swift_quiver
+  - swift_quiver
 tags:
   - spell
 ranger: true

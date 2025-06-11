@@ -3,13 +3,12 @@ title: Sunbeam
 source: PHB
 level: 6
 school: V
-prepared: false
 id: sunbeam
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sunbeam
+  - sunbeam
 tags:
   - spell
 cleric: true

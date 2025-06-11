@@ -3,13 +3,12 @@ title: Dragon's Breath
 source: XGE
 level: 2
 school: T
-prepared: false
 id: dragon_s_breath
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dragon's_breath
+  - dragon_s_breath
 tags:
   - spell
 fighter_eldritch_knight: true

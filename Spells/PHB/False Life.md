@@ -3,13 +3,12 @@ title: False Life
 source: PHB
 level: 1
 school: N
-prepared: false
 id: false_life
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_false_life
+  - false_life
 tags:
   - spell
 artificer: true

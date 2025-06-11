@@ -3,13 +3,12 @@ title: Enemies Abound
 source: XGE
 level: 3
 school: E
-prepared: false
 id: enemies_abound
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_enemies_abound
+  - enemies_abound
 tags:
   - spell
 bard: true

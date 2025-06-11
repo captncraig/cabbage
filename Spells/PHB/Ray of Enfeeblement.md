@@ -3,13 +3,12 @@ title: Ray of Enfeeblement
 source: PHB
 level: 2
 school: N
-prepared: false
 id: ray_of_enfeeblement
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_ray_of_enfeeblement
+  - ray_of_enfeeblement
 tags:
   - spell
 cleric_grave: true

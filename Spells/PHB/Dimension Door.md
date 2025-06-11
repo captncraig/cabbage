@@ -3,13 +3,12 @@ title: Dimension Door
 source: PHB
 level: 4
 school: C
-prepared: false
 id: dimension_door
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_dimension_door
+  - dimension_door
 tags:
   - spell
 bard: true

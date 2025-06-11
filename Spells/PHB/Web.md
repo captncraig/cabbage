@@ -3,13 +3,12 @@ title: Web
 source: PHB
 level: 2
 school: C
-prepared: false
 id: web
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_web
+  - web
 tags:
   - spell
 artificer: true

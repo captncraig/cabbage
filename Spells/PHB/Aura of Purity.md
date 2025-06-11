@@ -3,13 +3,12 @@ title: Aura of Purity
 source: PHB
 level: 4
 school: A
-prepared: false
 id: aura_of_purity
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_aura_of_purity
+  - aura_of_purity
 tags:
   - spell
 artificer_battle_smith: true

@@ -3,13 +3,12 @@ title: Confusion
 source: PHB
 level: 4
 school: E
-prepared: false
 id: confusion
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_confusion
+  - confusion
 tags:
   - spell
 bard: true

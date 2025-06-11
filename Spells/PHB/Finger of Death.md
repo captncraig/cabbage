@@ -3,13 +3,12 @@ title: Finger of Death
 source: PHB
 level: 7
 school: N
-prepared: false
 id: finger_of_death
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_finger_of_death
+  - finger_of_death
 tags:
   - spell
 sorcerer: true

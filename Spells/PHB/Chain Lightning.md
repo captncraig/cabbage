@@ -3,13 +3,12 @@ title: Chain Lightning
 source: PHB
 level: 6
 school: V
-prepared: false
 id: chain_lightning
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_chain_lightning
+  - chain_lightning
 tags:
   - spell
 sorcerer: true

@@ -3,13 +3,12 @@ title: Tenser's Transformation
 source: XGE
 level: 6
 school: T
-prepared: false
 id: tenser_s_transformation
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tenser's_transformation
+  - tenser_s_transformation
 tags:
   - spell
 wizard: true

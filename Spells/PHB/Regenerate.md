@@ -3,13 +3,12 @@ title: Regenerate
 source: PHB
 level: 7
 school: T
-prepared: false
 id: regenerate
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_regenerate
+  - regenerate
 tags:
   - spell
 bard: true

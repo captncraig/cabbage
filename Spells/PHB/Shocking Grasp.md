@@ -3,13 +3,12 @@ title: Shocking Grasp
 source: PHB
 level: 0
 school: V
-prepared: false
 id: shocking_grasp
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_shocking_grasp
+  - shocking_grasp
 tags:
   - spell
 artificer: true

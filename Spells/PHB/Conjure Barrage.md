@@ -3,13 +3,12 @@ title: Conjure Barrage
 source: PHB
 level: 3
 school: C
-prepared: false
 id: conjure_barrage
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_conjure_barrage
+  - conjure_barrage
 tags:
   - spell
 artificer_battle_smith: true

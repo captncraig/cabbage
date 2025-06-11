@@ -3,13 +3,12 @@ title: Wall of Ice
 source: PHB
 level: 6
 school: V
-prepared: false
 id: wall_of_ice
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_ice
+  - wall_of_ice
 tags:
   - spell
 wizard: true

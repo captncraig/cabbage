@@ -3,13 +3,12 @@ title: Heroism
 source: PHB
 level: 1
 school: E
-prepared: false
 id: heroism
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_heroism
+  - heroism
 tags:
   - spell
 artificer_battle_smith: true

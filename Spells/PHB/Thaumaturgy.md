@@ -3,13 +3,12 @@ title: Thaumaturgy
 source: PHB
 level: 0
 school: T
-prepared: false
 id: thaumaturgy
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_thaumaturgy
+  - thaumaturgy
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Sending
 source: PHB
 level: 3
 school: V
-prepared: false
 id: sending
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sending
+  - sending
 tags:
   - spell
 bard: true

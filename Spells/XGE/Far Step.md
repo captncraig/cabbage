@@ -3,13 +3,12 @@ title: Far Step
 source: XGE
 level: 5
 school: C
-prepared: false
 id: far_step
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_far_step
+  - far_step
 tags:
   - spell
 sorcerer: true

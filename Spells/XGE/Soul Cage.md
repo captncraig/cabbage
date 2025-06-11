@@ -3,13 +3,12 @@ title: Soul Cage
 source: XGE
 level: 6
 school: N
-prepared: false
 id: soul_cage
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_soul_cage
+  - soul_cage
 tags:
   - spell
 warlock: true

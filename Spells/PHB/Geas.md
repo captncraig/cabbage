@@ -3,13 +3,12 @@ title: Geas
 source: PHB
 level: 5
 school: E
-prepared: false
 id: geas
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_geas
+  - geas
 tags:
   - spell
 bard: true

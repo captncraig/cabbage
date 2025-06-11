@@ -3,13 +3,12 @@ title: Toll the Dead
 source: XGE
 level: 0
 school: N
-prepared: false
 id: toll_the_dead
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_toll_the_dead
+  - toll_the_dead
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Summon Greater Demon
 source: XGE
 level: 4
 school: C
-prepared: false
 id: summon_greater_demon
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_greater_demon
+  - summon_greater_demon
 tags:
   - spell
 fighter_eldritch_knight: true

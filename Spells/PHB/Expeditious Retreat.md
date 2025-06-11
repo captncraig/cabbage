@@ -3,13 +3,12 @@ title: Expeditious Retreat
 source: PHB
 level: 1
 school: T
-prepared: false
 id: expeditious_retreat
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_expeditious_retreat
+  - expeditious_retreat
 tags:
   - spell
 artificer: true

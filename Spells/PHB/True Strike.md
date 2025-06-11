@@ -3,13 +3,12 @@ title: True Strike
 source: PHB
 level: 0
 school: D
-prepared: false
 id: true_strike
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_true_strike
+  - true_strike
 tags:
   - spell
 bard: true

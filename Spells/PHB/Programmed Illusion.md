@@ -3,13 +3,12 @@ title: Programmed Illusion
 source: PHB
 level: 6
 school: I
-prepared: false
 id: programmed_illusion
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_programmed_illusion
+  - programmed_illusion
 tags:
   - spell
 bard: true

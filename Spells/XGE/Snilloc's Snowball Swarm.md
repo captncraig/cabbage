@@ -3,13 +3,12 @@ title: Snilloc's Snowball Swarm
 source: XGE
 level: 2
 school: V
-prepared: false
 id: snilloc_s_snowball_swarm
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_snilloc's_snowball_swarm
+  - snilloc_s_snowball_swarm
 tags:
   - spell
 fighter_eldritch_knight: true

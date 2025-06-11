@@ -3,13 +3,12 @@ title: Earth Tremor
 source: XGE
 level: 1
 school: V
-prepared: false
 id: earth_tremor
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_earth_tremor
+  - earth_tremor
 tags:
   - spell
 bard: true

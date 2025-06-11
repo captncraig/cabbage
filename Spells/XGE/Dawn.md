@@ -3,13 +3,12 @@ title: Dawn
 source: XGE
 level: 5
 school: V
-prepared: false
 id: dawn
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dawn
+  - dawn
 tags:
   - spell
 cleric: true

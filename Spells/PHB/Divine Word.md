@@ -3,13 +3,12 @@ title: Divine Word
 source: PHB
 level: 7
 school: V
-prepared: false
 id: divine_word
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_divine_word
+  - divine_word
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Prismatic Spray
 source: PHB
 level: 7
 school: V
-prepared: false
 id: prismatic_spray
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_prismatic_spray
+  - prismatic_spray
 tags:
   - spell
 bard: true

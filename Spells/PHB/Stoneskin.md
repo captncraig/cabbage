@@ -3,13 +3,12 @@ title: Stoneskin
 source: PHB
 level: 4
 school: A
-prepared: false
 id: stoneskin
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_stoneskin
+  - stoneskin
 tags:
   - spell
 artificer: true

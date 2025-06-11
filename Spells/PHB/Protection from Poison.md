@@ -3,13 +3,12 @@ title: Protection from Poison
 source: PHB
 level: 2
 school: A
-prepared: false
 id: protection_from_poison
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_protection_from_poison
+  - protection_from_poison
 tags:
   - spell
 artificer: true

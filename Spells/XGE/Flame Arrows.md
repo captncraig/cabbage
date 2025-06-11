@@ -3,13 +3,12 @@ title: Flame Arrows
 source: XGE
 level: 3
 school: T
-prepared: false
 id: flame_arrows
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_flame_arrows
+  - flame_arrows
 tags:
   - spell
 artificer: true

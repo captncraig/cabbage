@@ -3,13 +3,12 @@ title: Magic Missile
 source: PHB
 level: 1
 school: V
-prepared: false
 id: magic_missile
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_magic_missile
+  - magic_missile
 tags:
   - spell
 artificer_armorer: true

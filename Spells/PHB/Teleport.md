@@ -3,13 +3,12 @@ title: Teleport
 source: PHB
 level: 7
 school: C
-prepared: false
 id: teleport
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_teleport
+  - teleport
 tags:
   - spell
 bard: true

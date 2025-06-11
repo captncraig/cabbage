@@ -3,13 +3,12 @@ title: Abi-Dalzim's Horrid Wilting
 source: XGE
 level: 8
 school: N
-prepared: false
 id: abi-dalzim_s_horrid_wilting
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_abi-dalzim's_horrid_wilting
+  - abi-dalzim_s_horrid_wilting
 tags:
   - spell
 sorcerer: true

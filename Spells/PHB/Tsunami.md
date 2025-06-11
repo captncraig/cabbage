@@ -3,13 +3,12 @@ title: Tsunami
 source: PHB
 level: 8
 school: C
-prepared: false
 id: tsunami
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_tsunami
+  - tsunami
 tags:
   - spell
 druid: true

@@ -3,13 +3,12 @@ title: Entangle
 source: PHB
 level: 1
 school: C
-prepared: false
 id: entangle
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_entangle
+  - entangle
 tags:
   - spell
 druid: true

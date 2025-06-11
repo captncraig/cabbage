@@ -3,13 +3,12 @@ title: Blinding Smite
 source: PHB
 level: 3
 school: V
-prepared: false
 id: blinding_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_blinding_smite
+  - blinding_smite
 tags:
   - spell
 paladin: true

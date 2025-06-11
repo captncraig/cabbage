@@ -1,19 +1,20 @@
 ---
+as_str: 19
+as_int: 14
+as_dex: 18
+as_wis: 12
+as_cha: 15
+as_con: 18
+prof_arcana: true
+exp_arcana: true
+prof_sleight_of_hand: true
 class: druid
 subclass: druid_spores
 prepared_druidcraft: true
-prepared_mending: false
-prepared_guidance: false
-prepared_continual_flame: false
-prepared_storm_of_vengeance: false
-prepared_blindness_deafness: false
 level: 17
-prepared_elementalism: false
-prepared_message: true
+prepared_message: false
 prepared_poison_spray: true
 prepared_moonbeam: true
-prepared_revivify: false
-prepared_control_flames: false
 prepared_magic_stone: true
 prepared_infestation: true
 prepared_charm_person: true
@@ -24,8 +25,6 @@ prepared_enlarge_reduce: true
 prepared_healing_spirit: true
 prepared_heat_metal: true
 prepared_hold_person: true
-prepared_locate_object: false
-prepared_shapechange: false
 prepared_foresight: true
 prepared_feeblemind: true
 prepared_reverse_gravity: true
@@ -39,10 +38,8 @@ max_prep: 22
 prepared_dispel_magic: true
 prepared_fire_storm: true
 prepared_mass_cure_wounds: true
-prepared_find_the_path: false
-prepared_create_bonfire: false
-prepared_absorb_elements: false
-prepared_animal_friendship: false
-prepared_beast_bond: false
 prepared_flesh_to_stone: true
+prepared_earth_tremor: false
+prepared_detect_poison_and_disease: false
+prepared_detect_magic: false
 ---

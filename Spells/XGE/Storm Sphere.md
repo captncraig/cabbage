@@ -3,13 +3,12 @@ title: Storm Sphere
 source: XGE
 level: 4
 school: V
-prepared: false
 id: storm_sphere
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_storm_sphere
+  - storm_sphere
 tags:
   - spell
 fighter_eldritch_knight: true

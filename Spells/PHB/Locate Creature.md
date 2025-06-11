@@ -3,13 +3,12 @@ title: Locate Creature
 source: PHB
 level: 4
 school: D
-prepared: false
 id: locate_creature
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_locate_creature
+  - locate_creature
 tags:
   - spell
 bard: true

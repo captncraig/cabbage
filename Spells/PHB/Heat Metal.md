@@ -3,13 +3,12 @@ title: Heat Metal
 source: PHB
 level: 2
 school: T
-prepared: false
 id: heat_metal
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_heat_metal
+  - heat_metal
 tags:
   - spell
 artificer: true

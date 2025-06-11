@@ -3,13 +3,12 @@ title: Sleep
 source: PHB
 level: 1
 school: E
-prepared: false
 id: sleep
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sleep
+  - sleep
 tags:
   - spell
 bard: true

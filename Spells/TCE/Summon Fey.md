@@ -3,13 +3,12 @@ title: Summon Fey
 source: TCE
 level: 3
 school: C
-prepared: false
 id: summon_fey
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_fey
+  - summon_fey
 tags:
   - spell
 druid: true

@@ -3,13 +3,12 @@ title: Phantasmal Killer
 source: PHB
 level: 4
 school: I
-prepared: false
 id: phantasmal_killer
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_phantasmal_killer
+  - phantasmal_killer
 tags:
   - spell
 bard: true

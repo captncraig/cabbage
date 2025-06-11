@@ -3,13 +3,12 @@ title: Barkskin
 source: PHB
 level: 2
 school: T
-prepared: false
 id: barkskin
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_barkskin
+  - barkskin
 tags:
   - spell
 cleric_nature: true

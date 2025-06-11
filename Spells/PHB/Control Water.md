@@ -3,13 +3,12 @@ title: Control Water
 source: PHB
 level: 4
 school: T
-prepared: false
 id: control_water
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_control_water
+  - control_water
 tags:
   - spell
 cleric: true

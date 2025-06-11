@@ -3,13 +3,12 @@ title: Wrathful Smite
 source: PHB
 level: 1
 school: V
-prepared: false
 id: wrathful_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_wrathful_smite
+  - wrathful_smite
 tags:
   - spell
 paladin: true

@@ -3,13 +3,12 @@ title: Suggestion
 source: PHB
 level: 2
 school: E
-prepared: false
 id: suggestion
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_suggestion
+  - suggestion
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Lesser Restoration
 source: PHB
 level: 2
 school: A
-prepared: false
 id: lesser_restoration
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_lesser_restoration
+  - lesser_restoration
 tags:
   - spell
 artificer: true

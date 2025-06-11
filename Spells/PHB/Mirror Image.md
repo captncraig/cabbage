@@ -3,13 +3,12 @@ title: Mirror Image
 source: PHB
 level: 2
 school: I
-prepared: false
 id: mirror_image
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mirror_image
+  - mirror_image
 tags:
   - spell
 artificer_armorer: true

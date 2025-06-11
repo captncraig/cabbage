@@ -3,13 +3,12 @@ title: Summon Elemental
 source: TCE
 level: 4
 school: C
-prepared: false
 id: summon_elemental
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_elemental
+  - summon_elemental
 tags:
   - spell
 druid: true

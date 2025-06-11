@@ -3,13 +3,12 @@ title: Blindness/Deafness
 source: PHB
 level: 2
 school: N
-prepared: false
 id: blindness_deafness
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_blindness/deafness
+  - blindness_deafness
 tags:
   - spell
 bard: true

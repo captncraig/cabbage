@@ -3,13 +3,12 @@ title: Hold Monster
 source: PHB
 level: 5
 school: E
-prepared: false
 id: hold_monster
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_hold_monster
+  - hold_monster
 tags:
   - spell
 bard: true

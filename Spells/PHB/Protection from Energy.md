@@ -3,13 +3,12 @@ title: Protection from Energy
 source: PHB
 level: 3
 school: A
-prepared: false
 id: protection_from_energy
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_protection_from_energy
+  - protection_from_energy
 tags:
   - spell
 artificer: true

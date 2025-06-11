@@ -3,13 +3,12 @@ title: Chill Touch
 source: PHB
 level: 0
 school: N
-prepared: false
 id: chill_touch
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_chill_touch
+  - chill_touch
 tags:
   - spell
 druid_spores: true

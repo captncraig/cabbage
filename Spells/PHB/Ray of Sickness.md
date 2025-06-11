@@ -3,13 +3,12 @@ title: Ray of Sickness
 source: PHB
 level: 1
 school: N
-prepared: false
 id: ray_of_sickness
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_ray_of_sickness
+  - ray_of_sickness
 tags:
   - spell
 artificer_alchemist: true

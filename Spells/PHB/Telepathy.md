@@ -3,13 +3,12 @@ title: Telepathy
 source: PHB
 level: 8
 school: V
-prepared: false
 id: telepathy
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_telepathy
+  - telepathy
 tags:
   - spell
 wizard: true

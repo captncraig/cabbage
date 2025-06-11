@@ -3,13 +3,12 @@ title: Cloud of Daggers
 source: PHB
 level: 2
 school: C
-prepared: false
 id: cloud_of_daggers
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_cloud_of_daggers
+  - cloud_of_daggers
 tags:
   - spell
 bard: true

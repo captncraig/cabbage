@@ -3,13 +3,12 @@ title: Zephyr Strike
 source: XGE
 level: 1
 school: T
-prepared: false
 id: zephyr_strike
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_zephyr_strike
+  - zephyr_strike
 tags:
   - spell
 ranger: true

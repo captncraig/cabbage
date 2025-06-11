@@ -3,13 +3,12 @@ title: Shadow of Moil
 source: XGE
 level: 4
 school: N
-prepared: false
 id: shadow_of_moil
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_shadow_of_moil
+  - shadow_of_moil
 tags:
   - spell
 warlock: true

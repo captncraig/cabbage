@@ -3,13 +3,12 @@ title: Summon Shadowspawn
 source: TCE
 level: 3
 school: C
-prepared: false
 id: summon_shadowspawn
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_shadowspawn
+  - summon_shadowspawn
 tags:
   - spell
 fighter_eldritch_knight: true

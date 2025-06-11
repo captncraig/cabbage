@@ -3,13 +3,12 @@ title: Alter Self
 source: PHB
 level: 2
 school: T
-prepared: false
 id: alter_self
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_alter_self
+  - alter_self
 tags:
   - spell
 artificer: true

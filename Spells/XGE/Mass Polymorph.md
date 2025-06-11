@@ -3,13 +3,12 @@ title: Mass Polymorph
 source: XGE
 level: 9
 school: T
-prepared: false
 id: mass_polymorph
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mass_polymorph
+  - mass_polymorph
 tags:
   - spell
 bard: true

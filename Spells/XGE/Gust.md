@@ -3,13 +3,12 @@ title: Gust
 source: XGE
 level: 0
 school: T
-prepared: false
 id: gust
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_gust
+  - gust
 tags:
   - spell
 cleric_nature: true

@@ -3,13 +3,12 @@ title: Misty Step
 source: PHB
 level: 2
 school: C
-prepared: false
 id: misty_step
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_misty_step
+  - misty_step
 tags:
   - spell
 druid_land: true

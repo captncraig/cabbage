@@ -3,13 +3,12 @@ title: Wall of Light
 source: XGE
 level: 5
 school: V
-prepared: false
 id: wall_of_light
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_light
+  - wall_of_light
 tags:
   - spell
 sorcerer: true

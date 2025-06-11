@@ -3,13 +3,12 @@ title: Power Word Stun
 source: PHB
 level: 8
 school: E
-prepared: false
 id: power_word_stun
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_power_word_stun
+  - power_word_stun
 tags:
   - spell
 bard: true

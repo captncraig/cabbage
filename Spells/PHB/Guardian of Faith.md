@@ -3,13 +3,12 @@ title: Guardian of Faith
 source: PHB
 level: 4
 school: C
-prepared: false
 id: guardian_of_faith
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_guardian_of_faith
+  - guardian_of_faith
 tags:
   - spell
 cleric: true

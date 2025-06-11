@@ -3,13 +3,12 @@ title: Holy Weapon
 source: XGE
 level: 5
 school: V
-prepared: false
 id: holy_weapon
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_holy_weapon
+  - holy_weapon
 tags:
   - spell
 cleric: true

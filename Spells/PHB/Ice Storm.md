@@ -3,13 +3,12 @@ title: Ice Storm
 source: PHB
 level: 4
 school: V
-prepared: false
 id: ice_storm
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_ice_storm
+  - ice_storm
 tags:
   - spell
 artificer_artillerist: true

@@ -3,13 +3,12 @@ title: Prayer of Healing
 source: PHB
 level: 2
 school: V
-prepared: false
 id: prayer_of_healing
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_prayer_of_healing
+  - prayer_of_healing
 tags:
   - spell
 cleric: true

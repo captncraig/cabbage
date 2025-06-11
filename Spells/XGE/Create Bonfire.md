@@ -3,13 +3,12 @@ title: Create Bonfire
 source: XGE
 level: 0
 school: C
-prepared: false
 id: create_bonfire
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_create_bonfire
+  - create_bonfire
 tags:
   - spell
 artificer: true

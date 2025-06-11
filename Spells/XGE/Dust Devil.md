@@ -3,13 +3,12 @@ title: Dust Devil
 source: XGE
 level: 2
 school: C
-prepared: false
 id: dust_devil
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dust_devil
+  - dust_devil
 tags:
   - spell
 druid: true

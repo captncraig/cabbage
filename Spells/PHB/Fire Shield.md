@@ -3,13 +3,12 @@ title: Fire Shield
 source: PHB
 level: 4
 school: V
-prepared: false
 id: fire_shield
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_fire_shield
+  - fire_shield
 tags:
   - spell
 artificer_armorer: true

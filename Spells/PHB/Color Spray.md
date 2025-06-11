@@ -3,13 +3,12 @@ title: Color Spray
 source: PHB
 level: 1
 school: I
-prepared: false
 id: color_spray
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_color_spray
+  - color_spray
 tags:
   - spell
 bard: true

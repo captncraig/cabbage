@@ -3,13 +3,12 @@ title: Jump
 source: PHB
 level: 1
 school: T
-prepared: false
 id: jump
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_jump
+  - jump
 tags:
   - spell
 artificer: true

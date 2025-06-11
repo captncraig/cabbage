@@ -3,13 +3,12 @@ title: Awaken
 source: PHB
 level: 5
 school: T
-prepared: false
 id: awaken
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_awaken
+  - awaken
 tags:
   - spell
 bard: true

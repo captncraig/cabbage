@@ -3,13 +3,12 @@ title: Mass Cure Wounds
 source: PHB
 level: 5
 school: V
-prepared: false
 id: mass_cure_wounds
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_mass_cure_wounds
+  - mass_cure_wounds
 tags:
   - spell
 artificer_battle_smith: true

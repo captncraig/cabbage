@@ -3,13 +3,12 @@ title: Circle of Death
 source: PHB
 level: 6
 school: N
-prepared: false
 id: circle_of_death
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_circle_of_death
+  - circle_of_death
 tags:
   - spell
 sorcerer: true

@@ -3,13 +3,12 @@ title: Animal Shapes
 source: PHB
 level: 8
 school: T
-prepared: false
 id: animal_shapes
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_animal_shapes
+  - animal_shapes
 tags:
   - spell
 druid: true

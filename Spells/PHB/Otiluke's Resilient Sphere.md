@@ -3,13 +3,12 @@ title: Otiluke's Resilient Sphere
 source: PHB
 level: 4
 school: V
-prepared: false
 id: otiluke_s_resilient_sphere
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_otiluke's_resilient_sphere
+  - otiluke_s_resilient_sphere
 tags:
   - spell
 artificer: true

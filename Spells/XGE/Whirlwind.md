@@ -3,13 +3,12 @@ title: Whirlwind
 source: XGE
 level: 7
 school: V
-prepared: false
 id: whirlwind
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_whirlwind
+  - whirlwind
 tags:
   - spell
 druid: true

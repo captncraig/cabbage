@@ -3,13 +3,12 @@ title: Inflict Wounds
 source: PHB
 level: 1
 school: N
-prepared: false
 id: inflict_wounds
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_inflict_wounds
+  - inflict_wounds
 tags:
   - spell
 cleric: true

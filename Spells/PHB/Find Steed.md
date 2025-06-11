@@ -3,13 +3,12 @@ title: Find Steed
 source: PHB
 level: 2
 school: C
-prepared: false
 id: find_steed
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_find_steed
+  - find_steed
 tags:
   - spell
 paladin: true

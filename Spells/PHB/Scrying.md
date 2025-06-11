@@ -3,13 +3,12 @@ title: Scrying
 source: PHB
 level: 5
 school: D
-prepared: false
 id: scrying
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_scrying
+  - scrying
 tags:
   - spell
 bard: true

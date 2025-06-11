@@ -3,13 +3,12 @@ title: Spirit Shroud
 source: TCE
 level: 3
 school: N
-prepared: false
 id: spirit_shroud
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_spirit_shroud
+  - spirit_shroud
 tags:
   - spell
 cleric: true

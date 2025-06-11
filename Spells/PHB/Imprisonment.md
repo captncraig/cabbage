@@ -3,13 +3,12 @@ title: Imprisonment
 source: PHB
 level: 9
 school: A
-prepared: false
 id: imprisonment
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_imprisonment
+  - imprisonment
 tags:
   - spell
 warlock: true

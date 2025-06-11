@@ -3,13 +3,12 @@ title: Aganazzar's Scorcher
 source: XGE
 level: 2
 school: V
-prepared: false
 id: aganazzar_s_scorcher
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_aganazzar's_scorcher
+  - aganazzar_s_scorcher
 tags:
   - spell
 fighter_eldritch_knight: true

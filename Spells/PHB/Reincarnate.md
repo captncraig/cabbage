@@ -3,13 +3,12 @@ title: Reincarnate
 source: PHB
 level: 5
 school: T
-prepared: false
 id: reincarnate
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_reincarnate
+  - reincarnate
 tags:
   - spell
 druid: true

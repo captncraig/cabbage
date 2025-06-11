@@ -3,13 +3,12 @@ title: Create or Destroy Water
 source: PHB
 level: 1
 school: T
-prepared: false
 id: create_or_destroy_water
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_create_or_destroy_water
+  - create_or_destroy_water
 tags:
   - spell
 cleric: true

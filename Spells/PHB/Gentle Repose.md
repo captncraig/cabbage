@@ -3,13 +3,12 @@ title: Gentle Repose
 source: PHB
 level: 2
 school: N
-prepared: false
 id: gentle_repose
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_gentle_repose
+  - gentle_repose
 tags:
   - spell
 cleric: true

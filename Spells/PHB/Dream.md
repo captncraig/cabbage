@@ -3,13 +3,12 @@ title: Dream
 source: PHB
 level: 5
 school: I
-prepared: false
 id: dream
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_dream
+  - dream
 tags:
   - spell
 bard: true

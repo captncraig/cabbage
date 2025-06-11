@@ -3,13 +3,12 @@ title: Negative Energy Flood
 source: XGE
 level: 5
 school: N
-prepared: false
 id: negative_energy_flood
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_negative_energy_flood
+  - negative_energy_flood
 tags:
   - spell
 warlock: true

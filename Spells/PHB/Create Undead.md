@@ -3,13 +3,12 @@ title: Create Undead
 source: PHB
 level: 6
 school: N
-prepared: false
 id: create_undead
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_create_undead
+  - create_undead
 tags:
   - spell
 cleric: true

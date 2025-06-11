@@ -3,13 +3,12 @@ title: Skywrite
 source: XGE
 level: 2
 school: T
-prepared: false
 id: skywrite
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_skywrite
+  - skywrite
 tags:
   - spell
 artificer: true

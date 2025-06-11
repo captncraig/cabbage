@@ -3,13 +3,12 @@ title: Tongues
 source: PHB
 level: 3
 school: D
-prepared: false
 id: tongues
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_tongues
+  - tongues
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Flesh to Stone
 source: PHB
 level: 6
 school: T
-prepared: false
 id: flesh_to_stone
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_flesh_to_stone
+  - flesh_to_stone
 tags:
   - spell
 druid: true

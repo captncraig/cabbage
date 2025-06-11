@@ -3,13 +3,12 @@ title: Commune
 source: PHB
 level: 5
 school: D
-prepared: false
 id: commune
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_commune
+  - commune
 tags:
   - spell
 cleric: true

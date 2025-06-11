@@ -3,13 +3,12 @@ title: Power Word Kill
 source: PHB
 level: 9
 school: E
-prepared: false
 id: power_word_kill
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_power_word_kill
+  - power_word_kill
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Sleet Storm
 source: PHB
 level: 3
 school: C
-prepared: false
 id: sleet_storm
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_sleet_storm
+  - sleet_storm
 tags:
   - spell
 cleric_tempest: true

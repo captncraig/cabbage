@@ -3,13 +3,12 @@ title: Greater Invisibility
 source: PHB
 level: 4
 school: I
-prepared: false
 id: greater_invisibility
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_greater_invisibility
+  - greater_invisibility
 tags:
   - spell
 artificer_armorer: true

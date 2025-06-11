@@ -3,13 +3,12 @@ title: Grease
 source: PHB
 level: 1
 school: C
-prepared: false
 id: grease
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_grease
+  - grease
 tags:
   - spell
 artificer: true

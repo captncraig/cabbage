@@ -3,13 +3,12 @@ title: Summon Lesser Demons
 source: XGE
 level: 3
 school: C
-prepared: false
 id: summon_lesser_demons
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_lesser_demons
+  - summon_lesser_demons
 tags:
   - spell
 fighter_eldritch_knight: true

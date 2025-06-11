@@ -3,13 +3,12 @@ title: Arcane Gate
 source: PHB
 level: 6
 school: C
-prepared: false
 id: arcane_gate
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_arcane_gate
+  - arcane_gate
 tags:
   - spell
 sorcerer: true

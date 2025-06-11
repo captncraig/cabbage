@@ -3,13 +3,12 @@ title: Produce Flame
 source: PHB
 level: 0
 school: C
-prepared: false
 id: produce_flame
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_produce_flame
+  - produce_flame
 tags:
   - spell
 cleric_nature: true

@@ -3,13 +3,12 @@ title: Mordenkainen's Magnificent Mansion
 source: PHB
 level: 7
 school: C
-prepared: false
 id: mordenkainen_s_magnificent_mansion
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mordenkainen's_magnificent_mansion
+  - mordenkainen_s_magnificent_mansion
 tags:
   - spell
 bard: true

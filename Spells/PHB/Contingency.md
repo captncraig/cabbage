@@ -3,13 +3,12 @@ title: Contingency
 source: PHB
 level: 6
 school: V
-prepared: false
 id: contingency
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_contingency
+  - contingency
 tags:
   - spell
 wizard: true

@@ -3,13 +3,12 @@ title: Conjure Minor Elementals
 source: PHB
 level: 4
 school: C
-prepared: false
 id: conjure_minor_elementals
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_conjure_minor_elementals
+  - conjure_minor_elementals
 tags:
   - spell
 druid: true

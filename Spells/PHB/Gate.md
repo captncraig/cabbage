@@ -3,13 +3,12 @@ title: Gate
 source: PHB
 level: 9
 school: C
-prepared: false
 id: gate
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_gate
+  - gate
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Wind Walk
 source: PHB
 level: 6
 school: T
-prepared: false
 id: wind_walk
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wind_walk
+  - wind_walk
 tags:
   - spell
 druid: true

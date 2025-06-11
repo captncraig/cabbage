@@ -3,13 +3,12 @@ title: Bane
 source: PHB
 level: 1
 school: E
-prepared: false
 id: bane
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_bane
+  - bane
 tags:
   - spell
 bard: true

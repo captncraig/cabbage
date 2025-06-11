@@ -3,13 +3,12 @@ title: Spare the Dying
 source: PHB
 level: 0
 school: N
-prepared: false
 id: spare_the_dying
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_spare_the_dying
+  - spare_the_dying
 tags:
   - spell
 artificer: true

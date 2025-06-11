@@ -3,13 +3,12 @@ title: Melf's Minute Meteors
 source: XGE
 level: 3
 school: V
-prepared: false
 id: melf_s_minute_meteors
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_melf's_minute_meteors
+  - melf_s_minute_meteors
 tags:
   - spell
 fighter_eldritch_knight: true

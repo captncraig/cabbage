@@ -3,13 +3,12 @@ title: Hypnotic Pattern
 source: PHB
 level: 3
 school: I
-prepared: false
 id: hypnotic_pattern
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_hypnotic_pattern
+  - hypnotic_pattern
 tags:
   - spell
 artificer_armorer: true

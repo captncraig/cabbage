@@ -3,13 +3,12 @@ title: Scorching Ray
 source: PHB
 level: 2
 school: V
-prepared: false
 id: scorching_ray
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_scorching_ray
+  - scorching_ray
 tags:
   - spell
 artificer_artillerist: true

@@ -3,13 +3,12 @@ title: Eyebite
 source: PHB
 level: 6
 school: N
-prepared: false
 id: eyebite
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_eyebite
+  - eyebite
 tags:
   - spell
 bard: true

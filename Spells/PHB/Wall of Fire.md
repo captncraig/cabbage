@@ -3,13 +3,12 @@ title: Wall of Fire
 source: PHB
 level: 4
 school: V
-prepared: false
 id: wall_of_fire
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_fire
+  - wall_of_fire
 tags:
   - spell
 artificer_artillerist: true

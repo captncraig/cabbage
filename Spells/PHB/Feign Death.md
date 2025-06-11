@@ -3,13 +3,12 @@ title: Feign Death
 source: PHB
 level: 3
 school: N
-prepared: false
 id: feign_death
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_feign_death
+  - feign_death
 tags:
   - spell
 bard: true

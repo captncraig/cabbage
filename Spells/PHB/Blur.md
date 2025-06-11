@@ -3,13 +3,12 @@ title: Blur
 source: PHB
 level: 2
 school: I
-prepared: false
 id: blur
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_blur
+  - blur
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Wall of Thorns
 source: PHB
 level: 6
 school: C
-prepared: false
 id: wall_of_thorns
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_thorns
+  - wall_of_thorns
 tags:
   - spell
 druid: true

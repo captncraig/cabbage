@@ -3,13 +3,12 @@ title: Thunderous Smite
 source: PHB
 level: 1
 school: V
-prepared: false
 id: thunderous_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_thunderous_smite
+  - thunderous_smite
 tags:
   - spell
 paladin: true

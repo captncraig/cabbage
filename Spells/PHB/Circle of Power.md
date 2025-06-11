@@ -3,13 +3,12 @@ title: Circle of Power
 source: PHB
 level: 5
 school: A
-prepared: false
 id: circle_of_power
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_circle_of_power
+  - circle_of_power
 tags:
   - spell
 cleric_twilight: true

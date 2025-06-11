@@ -3,13 +3,12 @@ title: Nondetection
 source: PHB
 level: 3
 school: A
-prepared: false
 id: nondetection
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_nondetection
+  - nondetection
 tags:
   - spell
 bard: true

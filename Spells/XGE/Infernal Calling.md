@@ -3,13 +3,12 @@ title: Infernal Calling
 source: XGE
 level: 5
 school: C
-prepared: false
 id: infernal_calling
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_infernal_calling
+  - infernal_calling
 tags:
   - spell
 warlock: true

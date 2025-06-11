@@ -3,13 +3,12 @@ title: Forcecage
 source: PHB
 level: 7
 school: V
-prepared: false
 id: forcecage
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_forcecage
+  - forcecage
 tags:
   - spell
 bard: true

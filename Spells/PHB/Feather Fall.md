@@ -3,13 +3,12 @@ title: Feather Fall
 source: PHB
 level: 1
 school: T
-prepared: false
 id: feather_fall
 verbal: true
 somatic: false
 material: true
 aliases:
-  - spell_feather_fall
+  - feather_fall
 tags:
   - spell
 artificer: true

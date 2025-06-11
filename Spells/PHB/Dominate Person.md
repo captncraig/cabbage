@@ -3,13 +3,12 @@ title: Dominate Person
 source: PHB
 level: 5
 school: E
-prepared: false
 id: dominate_person
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_dominate_person
+  - dominate_person
 tags:
   - spell
 bard: true

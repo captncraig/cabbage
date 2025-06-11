@@ -3,13 +3,12 @@ title: Fabricate
 source: PHB
 level: 4
 school: T
-prepared: false
 id: fabricate
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_fabricate
+  - fabricate
 tags:
   - spell
 artificer: true

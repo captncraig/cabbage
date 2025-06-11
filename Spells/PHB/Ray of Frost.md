@@ -3,13 +3,12 @@ title: Ray of Frost
 source: PHB
 level: 0
 school: V
-prepared: false
 id: ray_of_frost
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_ray_of_frost
+  - ray_of_frost
 tags:
   - spell
 artificer: true

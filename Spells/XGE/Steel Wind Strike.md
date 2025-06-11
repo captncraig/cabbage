@@ -3,13 +3,12 @@ title: Steel Wind Strike
 source: XGE
 level: 5
 school: C
-prepared: false
 id: steel_wind_strike
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_steel_wind_strike
+  - steel_wind_strike
 tags:
   - spell
 ranger: true

@@ -3,13 +3,12 @@ title: Call Lightning
 source: PHB
 level: 3
 school: C
-prepared: false
 id: call_lightning
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_call_lightning
+  - call_lightning
 tags:
   - spell
 cleric_tempest: true

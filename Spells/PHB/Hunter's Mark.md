@@ -3,13 +3,12 @@ title: Hunter's Mark
 source: PHB
 level: 1
 school: D
-prepared: false
 id: hunter_s_mark
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_hunter's_mark
+  - hunter_s_mark
 tags:
   - spell
 paladin_vengeance: true

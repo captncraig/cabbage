@@ -3,13 +3,12 @@ title: Zone of Truth
 source: PHB
 level: 2
 school: E
-prepared: false
 id: zone_of_truth
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_zone_of_truth
+  - zone_of_truth
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Vicious Mockery
 source: PHB
 level: 0
 school: E
-prepared: false
 id: vicious_mockery
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_vicious_mockery
+  - vicious_mockery
 tags:
   - spell
 bard: true

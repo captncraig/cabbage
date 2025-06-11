@@ -3,13 +3,12 @@ title: Tasha's Hideous Laughter
 source: PHB
 level: 1
 school: E
-prepared: false
 id: tasha_s_hideous_laughter
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_tasha's_hideous_laughter
+  - tasha_s_hideous_laughter
 tags:
   - spell
 bard: true

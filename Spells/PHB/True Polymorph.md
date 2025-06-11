@@ -3,13 +3,12 @@ title: True Polymorph
 source: PHB
 level: 9
 school: T
-prepared: false
 id: true_polymorph
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_true_polymorph
+  - true_polymorph
 tags:
   - spell
 bard: true

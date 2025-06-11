@@ -3,13 +3,12 @@ title: Tree Stride
 source: PHB
 level: 5
 school: C
-prepared: false
 id: tree_stride
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_tree_stride
+  - tree_stride
 tags:
   - spell
 cleric_nature: true

@@ -3,13 +3,12 @@ title: Control Winds
 source: XGE
 level: 5
 school: T
-prepared: false
 id: control_winds
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_control_winds
+  - control_winds
 tags:
   - spell
 druid: true

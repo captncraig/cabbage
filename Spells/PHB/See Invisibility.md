@@ -3,13 +3,12 @@ title: See Invisibility
 source: PHB
 level: 2
 school: D
-prepared: false
 id: see_invisibility
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_see_invisibility
+  - see_invisibility
 tags:
   - spell
 artificer: true

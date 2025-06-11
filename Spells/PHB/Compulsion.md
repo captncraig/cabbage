@@ -3,13 +3,12 @@ title: Compulsion
 source: PHB
 level: 4
 school: E
-prepared: false
 id: compulsion
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_compulsion
+  - compulsion
 tags:
   - spell
 bard: true

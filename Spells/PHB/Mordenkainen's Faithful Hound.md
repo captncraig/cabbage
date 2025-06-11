@@ -3,13 +3,12 @@ title: Mordenkainen's Faithful Hound
 source: PHB
 level: 4
 school: C
-prepared: false
 id: mordenkainen_s_faithful_hound
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mordenkainen's_faithful_hound
+  - mordenkainen_s_faithful_hound
 tags:
   - spell
 artificer: true

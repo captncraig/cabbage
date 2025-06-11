@@ -3,13 +3,12 @@ title: Fireball
 source: PHB
 level: 3
 school: V
-prepared: false
 id: fireball
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_fireball
+  - fireball
 tags:
   - spell
 artificer_artillerist: true

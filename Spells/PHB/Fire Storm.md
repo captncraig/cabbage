@@ -3,13 +3,12 @@ title: Fire Storm
 source: PHB
 level: 7
 school: V
-prepared: false
 id: fire_storm
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_fire_storm
+  - fire_storm
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Eldritch Blast
 source: PHB
 level: 0
 school: V
-prepared: false
 id: eldritch_blast
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_eldritch_blast
+  - eldritch_blast
 tags:
   - spell
 warlock: true

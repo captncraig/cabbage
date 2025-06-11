@@ -3,13 +3,12 @@ title: Telekinesis
 source: PHB
 level: 5
 school: T
-prepared: false
 id: telekinesis
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_telekinesis
+  - telekinesis
 tags:
   - spell
 fighter_psi_warrior: true

@@ -3,13 +3,12 @@ title: Branding Smite
 source: PHB
 level: 2
 school: V
-prepared: false
 id: branding_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_branding_smite
+  - branding_smite
 tags:
   - spell
 artificer_battle_smith: true

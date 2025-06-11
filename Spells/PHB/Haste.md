@@ -3,13 +3,12 @@ title: Haste
 source: PHB
 level: 3
 school: T
-prepared: false
 id: haste
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_haste
+  - haste
 tags:
   - spell
 artificer: true

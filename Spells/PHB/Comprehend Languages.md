@@ -3,13 +3,12 @@ title: Comprehend Languages
 source: PHB
 level: 1
 school: D
-prepared: false
 id: comprehend_languages
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_comprehend_languages
+  - comprehend_languages
 tags:
   - spell
 bard: true

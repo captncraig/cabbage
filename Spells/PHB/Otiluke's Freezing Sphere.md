@@ -3,13 +3,12 @@ title: Otiluke's Freezing Sphere
 source: PHB
 level: 6
 school: V
-prepared: false
 id: otiluke_s_freezing_sphere
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_otiluke's_freezing_sphere
+  - otiluke_s_freezing_sphere
 tags:
   - spell
 sorcerer: true

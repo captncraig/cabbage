@@ -3,13 +3,12 @@ title: Heal
 source: PHB
 level: 6
 school: V
-prepared: false
 id: heal
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_heal
+  - heal
 tags:
   - spell
 cleric: true

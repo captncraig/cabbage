@@ -3,13 +3,12 @@ title: Hellish Rebuke
 source: PHB
 level: 1
 school: V
-prepared: false
 id: hellish_rebuke
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_hellish_rebuke
+  - hellish_rebuke
 tags:
   - spell
 warlock: true

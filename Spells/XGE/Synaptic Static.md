@@ -3,13 +3,12 @@ title: Synaptic Static
 source: XGE
 level: 5
 school: E
-prepared: false
 id: synaptic_static
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_synaptic_static
+  - synaptic_static
 tags:
   - spell
 bard: true

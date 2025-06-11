@@ -3,13 +3,12 @@ title: Wall of Stone
 source: PHB
 level: 5
 school: V
-prepared: false
 id: wall_of_stone
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_stone
+  - wall_of_stone
 tags:
   - spell
 artificer: true

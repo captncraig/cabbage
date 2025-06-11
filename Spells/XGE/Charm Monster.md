@@ -3,13 +3,12 @@ title: Charm Monster
 source: XGE
 level: 4
 school: E
-prepared: false
 id: charm_monster
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_charm_monster
+  - charm_monster
 tags:
   - spell
 bard: true

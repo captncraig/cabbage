@@ -3,13 +3,12 @@ title: Speak with Dead
 source: PHB
 level: 3
 school: N
-prepared: false
 id: speak_with_dead
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_speak_with_dead
+  - speak_with_dead
 tags:
   - spell
 bard: true

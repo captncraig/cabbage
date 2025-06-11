@@ -3,13 +3,12 @@ title: Rary's Telepathic Bond
 source: PHB
 level: 5
 school: D
-prepared: false
 id: rary_s_telepathic_bond
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_rary's_telepathic_bond
+  - rary_s_telepathic_bond
 tags:
   - spell
 bard: true

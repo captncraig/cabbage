@@ -3,13 +3,12 @@ title: Burning Hands
 source: PHB
 level: 1
 school: V
-prepared: false
 id: burning_hands
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_burning_hands
+  - burning_hands
 tags:
   - spell
 cleric_light: true

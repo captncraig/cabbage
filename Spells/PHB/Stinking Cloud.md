@@ -3,13 +3,12 @@ title: Stinking Cloud
 source: PHB
 level: 3
 school: C
-prepared: false
 id: stinking_cloud
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_stinking_cloud
+  - stinking_cloud
 tags:
   - spell
 bard: true

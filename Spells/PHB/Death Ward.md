@@ -3,13 +3,12 @@ title: Death Ward
 source: PHB
 level: 4
 school: A
-prepared: false
 id: death_ward
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_death_ward
+  - death_ward
 tags:
   - spell
 artificer_alchemist: true

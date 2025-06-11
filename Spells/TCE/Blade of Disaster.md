@@ -3,13 +3,12 @@ title: Blade of Disaster
 source: TCE
 level: 9
 school: C
-prepared: false
 id: blade_of_disaster
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_blade_of_disaster
+  - blade_of_disaster
 tags:
   - spell
 sorcerer: true

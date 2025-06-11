@@ -3,13 +3,12 @@ title: Summon Aberration
 source: TCE
 level: 4
 school: C
-prepared: false
 id: summon_aberration
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_summon_aberration
+  - summon_aberration
 tags:
   - spell
 fighter_eldritch_knight: true

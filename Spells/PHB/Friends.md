@@ -3,13 +3,12 @@ title: Friends
 source: PHB
 level: 0
 school: E
-prepared: false
 id: friends
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_friends
+  - friends
 tags:
   - spell
 bard: true

@@ -3,13 +3,12 @@ title: Pass without Trace
 source: PHB
 level: 2
 school: A
-prepared: false
 id: pass_without_trace
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_pass_without_trace
+  - pass_without_trace
 tags:
   - spell
 cleric_trickery: true

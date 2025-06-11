@@ -3,13 +3,12 @@ title: Rope Trick
 source: PHB
 level: 2
 school: T
-prepared: false
 id: rope_trick
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_rope_trick
+  - rope_trick
 tags:
   - spell
 artificer: true

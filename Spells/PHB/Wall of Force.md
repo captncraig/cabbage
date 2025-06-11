@@ -3,13 +3,12 @@ title: Wall of Force
 source: PHB
 level: 5
 school: V
-prepared: false
 id: wall_of_force
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_wall_of_force
+  - wall_of_force
 tags:
   - spell
 artificer_armorer: true

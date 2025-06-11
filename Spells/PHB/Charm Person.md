@@ -3,13 +3,12 @@ title: Charm Person
 source: PHB
 level: 1
 school: E
-prepared: false
 id: charm_person
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_charm_person
+  - charm_person
 tags:
   - spell
 bard: true

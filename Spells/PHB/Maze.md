@@ -3,13 +3,12 @@ title: Maze
 source: PHB
 level: 8
 school: C
-prepared: false
 id: maze
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_maze
+  - maze
 tags:
   - spell
 wizard: true

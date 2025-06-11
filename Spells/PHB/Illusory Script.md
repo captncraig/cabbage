@@ -3,13 +3,12 @@ title: Illusory Script
 source: PHB
 level: 1
 school: I
-prepared: false
 id: illusory_script
 verbal: false
 somatic: true
 material: true
 aliases:
-  - spell_illusory_script
+  - illusory_script
 tags:
   - spell
 bard: true

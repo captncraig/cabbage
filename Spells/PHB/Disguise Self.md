@@ -3,13 +3,12 @@ title: Disguise Self
 source: PHB
 level: 1
 school: I
-prepared: false
 id: disguise_self
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_disguise_self
+  - disguise_self
 tags:
   - spell
 artificer: true

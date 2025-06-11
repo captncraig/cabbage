@@ -3,13 +3,12 @@ title: Absorb Elements
 source: XGE
 level: 1
 school: A
-prepared: false
 id: absorb_elements
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_absorb_elements
+  - absorb_elements
 tags:
   - spell
 artificer: true

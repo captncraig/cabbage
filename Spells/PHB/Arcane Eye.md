@@ -3,13 +3,12 @@ title: Arcane Eye
 source: PHB
 level: 4
 school: D
-prepared: false
 id: arcane_eye
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_arcane_eye
+  - arcane_eye
 tags:
   - spell
 artificer: true

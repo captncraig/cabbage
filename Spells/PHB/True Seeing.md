@@ -3,13 +3,12 @@ title: True Seeing
 source: PHB
 level: 6
 school: D
-prepared: false
 id: true_seeing
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_true_seeing
+  - true_seeing
 tags:
   - spell
 bard: true

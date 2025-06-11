@@ -3,13 +3,12 @@ title: Spiritual Weapon
 source: PHB
 level: 2
 school: V
-prepared: false
 id: spiritual_weapon
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_spiritual_weapon
+  - spiritual_weapon
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Mighty Fortress
 source: XGE
 level: 8
 school: C
-prepared: false
 id: mighty_fortress
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_mighty_fortress
+  - mighty_fortress
 tags:
   - spell
 wizard: true

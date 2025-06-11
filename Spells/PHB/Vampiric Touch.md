@@ -3,13 +3,12 @@ title: Vampiric Touch
 source: PHB
 level: 3
 school: N
-prepared: false
 id: vampiric_touch
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_vampiric_touch
+  - vampiric_touch
 tags:
   - spell
 cleric_grave: true

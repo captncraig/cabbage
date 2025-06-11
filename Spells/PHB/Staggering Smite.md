@@ -3,13 +3,12 @@ title: Staggering Smite
 source: PHB
 level: 4
 school: V
-prepared: false
 id: staggering_smite
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_staggering_smite
+  - staggering_smite
 tags:
   - spell
 paladin: true

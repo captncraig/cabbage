@@ -3,13 +3,12 @@ title: Magic Circle
 source: PHB
 level: 3
 school: A
-prepared: false
 id: magic_circle
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_magic_circle
+  - magic_circle
 tags:
   - spell
 cleric: true

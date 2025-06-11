@@ -3,13 +3,12 @@ title: Frostbite
 source: XGE
 level: 0
 school: V
-prepared: false
 id: frostbite
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_frostbite
+  - frostbite
 tags:
   - spell
 artificer: true

@@ -3,13 +3,12 @@ title: Thunder Step
 source: XGE
 level: 3
 school: C
-prepared: false
 id: thunder_step
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_thunder_step
+  - thunder_step
 tags:
   - spell
 fighter_eldritch_knight: true

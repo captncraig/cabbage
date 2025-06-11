@@ -3,13 +3,12 @@ title: Holy Aura
 source: PHB
 level: 8
 school: A
-prepared: false
 id: holy_aura
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_holy_aura
+  - holy_aura
 tags:
   - spell
 cleric: true

@@ -3,13 +3,12 @@ title: Etherealness
 source: PHB
 level: 7
 school: T
-prepared: false
 id: etherealness
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_etherealness
+  - etherealness
 tags:
   - spell
 bard: true

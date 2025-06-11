@@ -3,13 +3,12 @@ title: Earthbind
 source: XGE
 level: 2
 school: T
-prepared: false
 id: earthbind
 verbal: true
 somatic: false
 material: false
 aliases:
-  - spell_earthbind
+  - earthbind
 tags:
   - spell
 druid: true

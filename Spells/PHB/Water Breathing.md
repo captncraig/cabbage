@@ -3,13 +3,12 @@ title: Water Breathing
 source: PHB
 level: 3
 school: T
-prepared: false
 id: water_breathing
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_water_breathing
+  - water_breathing
 tags:
   - spell
 artificer: true

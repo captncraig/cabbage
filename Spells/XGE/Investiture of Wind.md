@@ -3,13 +3,12 @@ title: Investiture of Wind
 source: XGE
 level: 6
 school: T
-prepared: false
 id: investiture_of_wind
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_investiture_of_wind
+  - investiture_of_wind
 tags:
   - spell
 druid: true

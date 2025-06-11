@@ -3,13 +3,12 @@ title: Meteor Swarm
 source: PHB
 level: 9
 school: V
-prepared: false
 id: meteor_swarm
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_meteor_swarm
+  - meteor_swarm
 tags:
   - spell
 sorcerer: true

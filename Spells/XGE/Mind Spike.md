@@ -3,13 +3,12 @@ title: Mind Spike
 source: XGE
 level: 2
 school: D
-prepared: false
 id: mind_spike
 verbal: false
 somatic: true
 material: false
 aliases:
-  - spell_mind_spike
+  - mind_spike
 tags:
   - spell
 fighter_eldritch_knight: true

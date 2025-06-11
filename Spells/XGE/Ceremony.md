@@ -3,13 +3,12 @@ title: Ceremony
 source: XGE
 level: 1
 school: A
-prepared: false
 id: ceremony
 verbal: true
 somatic: true
 material: true
 aliases:
-  - spell_ceremony
+  - ceremony
 tags:
   - spell
 cleric: true

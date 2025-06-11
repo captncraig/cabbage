@@ -3,13 +3,12 @@ title: Contagion
 source: PHB
 level: 5
 school: N
-prepared: false
 id: contagion
 verbal: true
 somatic: true
 material: false
 aliases:
-  - spell_contagion
+  - contagion
 tags:
   - spell
 cleric: true
