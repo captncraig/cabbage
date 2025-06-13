@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/PHB/Arcane Eye.md",
+                "file": "C466493.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcane Eye"
+              "title": "C466493"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/PHB/Arcane Eye.md",
+                "file": "C466493.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arcane Eye"
+              "title": "Backlinks for C466493"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spells/PHB/Arcane Eye.md",
+                "file": "C466493.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arcane Eye"
+              "title": "Outgoing links from C466493"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/PHB/Arcane Eye.md",
+                "file": "C466493.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arcane Eye"
+              "title": "Outline of C466493"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -186,23 +186,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "abc9ce6f61a97e47",
   "lastOpenFiles": [
+    "C466493 Spells.md",
+    "Cabbage Inventory.md",
+    "C466493.md",
+    "cabbage_scratch.md",
+    "Spell Book.md",
+    "Spells/PHB/Animal Friendship.md",
+    "Spells/PHB/Arcane Eye.md",
     "Spells/PHB/Antipathy_Sympathy.md",
     "Spells/PHB/Antimagic Field.md",
     "Spells/PHB/Antilife Shell.md",
     "Spells/PHB/Animal Shapes.md",
-    "Spells/PHB/Animal Friendship.md",
     "Spells/PHB/Alarm.md",
     "Spells/PHB/Aid.md",
     "Spells/PHB/Acid Splash.md",
-    "C466493 Spells.md",
-    "Spell Book.md",
-    "cabbage_scratch.md",
-    "C466493.md",
     "Spells/PHB/Searing Smite.md",
     "list.md",
     "Spells/TCE/Spirit Shroud.md",
@@ -215,8 +217,6 @@
     "Spells/TCE/Summon Fiend.md",
     "Spells/TCE/Summon Fey.md",
     "Spells/TCE/Summon Elemental.md",
-    "Spells/TCE/Summon Construct.md",
-    "Spells/TCE/Summon Celestial.md",
     "Spells/TCE",
     "Spells/XGE",
     "Spells/PHB",

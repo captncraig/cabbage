@@ -1,5 +1,5 @@
 ---
-as_str: 19
+as_str: 8
 as_int: 14
 as_dex: 18
 as_wis: 12

@@ -1,7 +1,7 @@
 [
-  "dataview",
-  "obsidian-icon-shortcodes",
   "obsidian-meta-bind-plugin",
-  "obsidian-dice-roller",
-  "obsidian-git"
+  "obsidian-icon-shortcodes",
+  "obsidian42-brat",
+  "dataview",
+  "dnd-ui-toolkit"
 ]

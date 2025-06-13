@@ -6,7 +6,7 @@
   "customFormulas": [],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
-  "displayFormulaAfter": true,
+  "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,

@@ -1,0 +1,34 @@
+{
+  "state": {
+    "din_luck_spell_2": {
+      "value": 0
+    },
+    "cab_spell_1": {
+      "value": 0
+    },
+    "cab_spell_2": {
+      "value": 0
+    },
+    "cab_spell_3": {
+      "value": 0
+    },
+    "cab_spell_4": {
+      "value": 0
+    },
+    "cab_spell_5": {
+      "value": 0
+    },
+    "cab_spell_6": {
+      "value": 1
+    },
+    "cab_spell_7": {
+      "value": 1
+    },
+    "cab_spell_8": {
+      "value": 1
+    },
+    "cab_spell_9": {
+      "value": 1
+    }
+  }
+}

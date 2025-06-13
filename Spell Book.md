@@ -14,7 +14,7 @@ for (let group of dv.pages("#spell").groupBy(p => p.level)) {
             .map(x => [
                 x.file.link, 
                 x.level, 
-                x[scratch.subclass] ? "✅":
+                x[scratch.subclass] ? "🍄":
                 "`INPUT[toggle:"+self.scratch+"#prepared_"+x.id+"]`",
                 x.source
             ]))

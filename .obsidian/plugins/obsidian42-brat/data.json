@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "hay-kot/obsidian-dnd-ui-toolkit"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
